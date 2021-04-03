@@ -1,0 +1,26 @@
+{{ define "main" }}
+
+<section class="section-sm">
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-8 mx-auto text-center">
+          <h4 class="widget-title">{{ .Title | markdownify }}</h4>
+          <div class="content">
+            {{ .Content }}
+          </div>
+          {{ if .Params.Image }}
+            <div class='d-block mx-auto mt-5'>
+              <img src="{{ .Params.Image | absURL }}" alt="" class="img-fluid col-4">
+              <div class='mb-4 mt-4'>
+                  <p class='magazine-title'> {{ .Params.sub_title }} </p>
+                  <p class='magazine-sub-title'> {{ .Params.sub_title_description }} </p>
+              </div>
+              <a href="/magazine_viewer" class="btn btn-outline-primary">Open</a>
+            </div>
+          {{ end }}
+        </div>
+      </div>
+    </div>
+  </section>
+
+{{ end }}

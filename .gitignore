@@ -1,0 +1,10 @@
+## OS Files
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+public/
+themes/
+# OSX
+.DS_Store

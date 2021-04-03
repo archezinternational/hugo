@@ -1,0 +1,130 @@
+######################## default configuration ####################
+baseURL = "https://archezinternational.com"
+languageCode = "en-us"
+title = "Archez International"
+theme = "liva-hugo"
+summaryLength = "10"
+paginate = 6
+disqusShortname = ""
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+
+############################# Plugins ##############################
+[params.plugins]
+  
+
+  # CSS Plugins
+  [[params.plugins.css]]
+  URL = "plugins/bootstrap/bootstrap.min.css"
+  [[params.plugins.css]]
+  URL = "plugins/slick/slick.css"
+  [[params.plugins.css]]
+  URL = "plugins/themify-icons/themify-icons.css"
+  [[params.plugins.css]]
+  URL = "plugins/venobox/venobox.css"
+
+  # JS Plugins
+  [[params.plugins.js]]
+  URL = "plugins/jQuery/jquery.min.js"
+  [[params.plugins.js]]
+  URL = "plugins/bootstrap/bootstrap.min.js"
+  [[params.plugins.js]]
+  URL = "plugins/slick/slick.min.js"
+  [[params.plugins.js]]
+  URL = "plugins/venobox/venobox.min.js"
+  [[params.plugins.js]]
+  URL = "plugins/search/fuse.min.js"
+  [[params.plugins.js]]
+  URL = "plugins/search/mark.js"
+  [[params.plugins.js]]
+  URL = "plugins/search/search.js"
+
+
+############################## navigation ###############################
+[menu]
+
+  # main menu
+  [[menu.main]]
+  name = "Magazine"
+  URL = "magazine"
+  weight = 1
+  
+  [[menu.main]]
+  name = "Shop"
+  URL = "shop"
+  weight = 2
+
+  [[menu.main]]
+  name = "About"
+  URL = "about"
+  weight = 3
+
+  [[menu.main]]
+  name = "Contact"
+  URL = "contact"
+  weight = 4
+
+
+
+  # footer menu
+  [[menu.footer]]
+  name = "About"
+  URL = "about"
+  weight = 1
+
+  [[menu.footer]]
+  name = "Post"
+  URL = "blog"
+  weight = 2
+
+  [[menu.footer]]
+  name = "Contact"
+  URL = "contact"
+  weight = 3
+
+
+#################### default parameters ################################
+[params]
+logo = "images/logo.png"
+home = "Home"
+# Meta data
+description = "This is meta description"
+author = "Themefisher"
+# Google Analitycs
+googleAnalitycsID = "Your ID"
+# Contact Information
+mobile = "+58 412 7729838"
+email = "info@archezinternational.com"
+location = "Medellín, Colombia"
+# copyright
+copyright = "| copyright &copy; 2021 Archez International All Rights Reserved |"
+customCSS = ["css/custom_styles.css"]
+googleFontName = "ARCHIVO BLACK"
+
+  # Preloader
+  [params.preloader]
+  enable = true
+  preloader = "/images/waiting.png" # use .png , .svg or .gif format
+
+  # search
+  [params.search]
+  enable = true
+
+
+############################# social site ########################
+[[params.social]]
+title = "instagram"
+icon = "ti-instagram" # themify icon : https://themify.me/themify-icons
+link = "https://www.instagram.com/archezinternational"
+
+[[params.social]]
+title = "facebook"
+icon = "ti-facebook" # themify icon : https://themify.me/themify-icons
+link = "https://www.facebook.com/archezinternational"
+
+[[params.social]]
+title = "pinterest"
+icon = "ti-pinterest" # themify icon : https://themify.me/themify-icons
+link = "https://www.pinterest.com/archezinternational"
+
