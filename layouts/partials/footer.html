@@ -24,7 +24,7 @@
   <div class="container">
     <div class="row justify-content-center">
       <div class="col-12 text-center mb-5 mt-5">
-        <a href="{{ .Site.BaseURL }}"><img src="{{ .Site.Params.logo | absURL }}" alt="{{ .Site.Title }}"></a>
+
       </div>
       {{ if or  .Site.Params.mobile .Site.Params.location .Site.Params.email }}         
       <div class="col-lg-3 col-sm-6 mb-5">
@@ -39,7 +39,9 @@
                 class="ti-email mr-3 text-primary"></i>{{ .Site.Params.email }}</a>
           {{ end }}
           {{ if .Site.Params.location }}           
-          <li class="mb-3"><i class="ti-pin mr-3 text-primary"></i>{{ .Site.Params.location }}</li>
+          <li class="mb-3"><a a class="text-dark" href="https://www.google.com/maps?client=safari&rls=en&q=medellin&oe=UTF-8&um=1&ie=UTF-8&sa=X&ved=2ahUKEwjUoZa6tOPvAhXFdN8KHbC0BDUQ_AUoA3oECAEQBQ" target="_blank">
+              <i class="ti-pin mr-3 text-primary"></i>{{ .Site.Params.location }}</a>
+          </li>
           {{ end }}
          
           </li>
@@ -50,7 +52,7 @@
         <h6 class="mb-4">Social Contacts</h6>
         <ul class="list-unstyled">
           {{ range .Site.Params.social }}
-          <li class="mb-3"><a class="text-dark" href="{{ .link | safeURL }}">{{ .title }}</a></li>
+          <li class="mb-3"><i class="{{ .icon }} mr-3 text-primary"></i><a class="text-dark" href="{{ .link | safeURL }}">{{ .title | title }}</a></li>
           {{ end }}
         </ul>
       </div>

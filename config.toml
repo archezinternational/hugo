@@ -65,8 +65,6 @@ disqusShortname = ""
   URL = "contact"
   weight = 4
 
-
-
   # footer menu
   [[menu.footer]]
   name = "About"
@@ -90,22 +88,20 @@ logo = "images/logo.png"
 home = "Home"
 # Meta data
 description = "This is meta description"
-author = "Themefisher"
-# Google Analitycs
-googleAnalitycsID = "Your ID"
+author = "Archez International"
 # Contact Information
 
 email = "info@archezinternational.com"
 location = "Medellín, Colombia"
 # copyright
-copyright = "| copyright &copy; 2021 Archez International All Rights Reserved |"
+copyright = "&copy; Archez International 2021 | All Rights Reserved"
 customCSS = ["css/custom_styles.css"]
-googleFontName = "ARCHIVO BLACK"
+googleFontName = "Poppins"
 
   # Preloader
   [params.preloader]
   enable = true
-  preloader = "/images/waiting.png" # use .png , .svg or .gif format
+  preloader = "/images/loader.gif" # use .png , .svg or .gif format
 
   # search
   [params.search]

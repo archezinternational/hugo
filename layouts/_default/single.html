@@ -1,0 +1,52 @@
+{{ define "main" }}
+
+<section class="section-sm">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-8 mx-auto">
+        <div class="row">
+          <div class="col-6 flex-v">
+            
+            <div>
+				{{ range .Params.Categories }}
+					<a href="{{ `categories/` | relLangURL }}{{ . | urlize | lower }}" class="text-primary">{{ . }} |</a>
+			  {{ end }}
+			</div>
+            
+            <h2>{{ .Title | markdownify }}</h2>
+            <div class="mb-3 post-meta">
+              <span>By {{if .Params.Author}}{{ .Params.Author }}{{else}}{{.Site.Params.Author}}{{end}}</span>
+            </div>
+            {{ if .Params.price }}
+            <div>
+              <div class="col-12 row mb-4">
+                <div class='col-sm-6 '>
+                    <div class='row align-items-center price'>
+                        <p class='text-center w-100'>
+                            {{ .Params.price }}
+                        </p>
+                    </div>
+                </div>
+                <a href="{{ .Params.gumroadURL }}" target="_blank" class="btn btn-outline-primary col-sm-6">BUY</a>
+              </div>
+            </div>
+            {{ end }}
+			<p class='purchase-disclaimer'>All purchases will be made through our <a href="https://gumroad.com" target="_blank">https://gumroad.com</a> account. For direct payment methods (US or Colombian Banks, personal Paypal account) <a href="mailto:payments@archezinternational.com?subject=Direct payment request">contact us</a></p>
+          </div>
+          <div class="col-6">
+            {{ if .Params.image }}
+            <img src="{{ .Params.Image | absURL }}" class="img-fluid w-100 mb-4" alt="{{ .Title | markdownify }}">
+            {{ end }}
+          </div>
+        </div>
+        <div class="content mb-5">
+          {{ .Content }}
+        </div>
+        <!-- comments -->
+        {{ template "_internal/disqus.html" . }}
+      </div>
+    </div>
+  </div>
+</section>
+
+{{ end }}
