@@ -11,18 +11,17 @@
         </a>
         {{ end }}
         <div class="card-body px-0">
-        {{ range .Params.Categories }}
-        <a href="{{ `categories/` | relLangURL }}{{ . | urlize | lower }}"
-            class="text-primary">{{ . }} |</a>
-        {{ end }}
-        <a href="{{ .Permalink }}" class="h5 d-block my-3">{{ .Title | markdownify }}</a>
-        <div class="mb-3 post-meta">
-            <span>By {{ .Site.Params.Author }}</span>
-            {{ if not .Params.HideDate }}
+            {{ range .Params.Categories }}
+            <a href="{{ `categories/` | relLangURL }}{{ . | urlize | lower }}"
+                class="text-primary">{{ . }} |</a>
             {{ end }}
-        </div>
-        <p class="card-text">{{ .Summary }}</p>
-        <a href="{{ .Permalink }}" class="btn btn-outline-primary">QUICK VIEW</a>
+            <a href="{{ .Permalink }}" class="h5 d-block my-3">{{ .Title | markdownify }}</a>
+            <div class="mb-3 post-meta">
+            </div>
+            <div>
+                <div><p class='font-weight-bold'>{{.Params.price}}</p></div>
+                <a href="{{ .Params.gumroadURL }}" target="_blank" class="btn btn-outline-primary col-sm-6">QUICK VIEW</a>
+            </div>
         </div>
     </article>
 </div>

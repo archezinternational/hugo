@@ -12,7 +12,7 @@ description: "this is meta description"
 # taxonomies
 categories: 
   - "Go Language"
-  - "best-seller"
+  - "BEST SELLER"
 tags:
   - "Photos"
   - "HTML"

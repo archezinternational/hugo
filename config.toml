@@ -67,19 +67,24 @@ disqusShortname = ""
 
   # footer menu
   [[menu.footer]]
-  name = "About"
-  URL = "about"
+  name = "Magazine"
+  URL = "magazine"
   weight = 1
+  
+  [[menu.footer]]
+  name = "Shop"
+  URL = "shop"
+  weight = 2
 
   [[menu.footer]]
-  name = "Post"
-  URL = "blog"
-  weight = 2
+  name = "About"
+  URL = "about"
+  weight = 3
 
   [[menu.footer]]
   name = "Contact"
   URL = "contact"
-  weight = 3
+  weight = 4
 
 
 #################### default parameters ################################
