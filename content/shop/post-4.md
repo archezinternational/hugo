@@ -50,12 +50,12 @@ _____
 
 ¡Hola archifriend! A continuación te dejo todas las especificaciones de este producto:
 
-**Tamaño de archivo:** Vista en planta 6.1 MB | Elevación 17.1 MB
+**Tamaño de archivo:** Vista en planta 6.1 MB | Alzado 17.1 MB
 
 **Formato:** DWG
 
 **Compatibilidad de software:** AutoCAD
 
-**Contenido:** Más de 250 bloques CAD adecuados para proyectos de vista en planta y vista en alzado también
+**Contenido:** Más de 250 bloques CAD adecuados para proyectos de vista en planta y en alzado también
 
 *Puedes comprarlos juntos o por separado*

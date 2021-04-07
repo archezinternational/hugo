@@ -129,3 +129,23 @@ title = "pinterest"
 icon = "ti-pinterest" # themify icon : https://themify.me/themify-icons
 link = "https://www.pinterest.com/archezinternational"
 
+
+[[params.customMetas]]
+field = "site_name"
+content = "Archez International"
+
+[[params.customMetas]]
+field = "title"
+content = "Archez International"
+
+[[params.customMetas]]
+field = "url"
+content = "https://www.archezinternational.com"
+
+[[params.customMetas]]
+field = "description"
+content = "Architecture & Illustration. Digital magazine + inspiration + shop"
+
+[[params.customMetas]]
+field = "image"
+content = "https://www.archezinternational.com/images/logo.png"
