@@ -11,14 +11,14 @@ description: "Trees pack"
 
 # taxonomies
 categories:
-  - "BEST SELLER"
   - "PSD"
+  - "BEST SELLER"
 tags:
-  - "Photos"
-  - "Game"
-  - "React"
-  - "Python"
-  - "New"
+  - "Arquitecture"
+  - "Plants"
+  - "Trees"
+  - "Architect"
+  - "Psd"
 
 # post type
 type: "featured"
@@ -35,20 +35,24 @@ gumroadURL: "https://gumroad.com/archezinternational?sort=page_layout#fAahc"
 
 ___
 
-Hi archifriends!
+Hi archifriend! Below I leave you all the specifications of this product:
 
-This trees pack contains:
+**File size:** 8.30 MB
 
-5 psd files each with a different kind of tree, each tree has 3 different textures that you can edit them and use together or separately on your post-productions and illustrations
+**Format:** PSD FILES
 
-[These trees were created by Archez]
+**Software compatibility:** Adobe Photoshop
 
-___
+**Content:** 5 PSD FILES each with a different kind of tree, each tree has 3 different textures that you can edit them and use together or separately on your post-productions and illustrations
 
-¡Hola archifriends!
+_____
 
-Este pack de árboles contiene:
+¡Hola archifriend! A continuación te dejo todas las especificaciones de este producto:
 
-5 archivos psd, cada uno con un tipo diferente de árbol, cada árbol tiene 3 texturas diferentes que puedes editar y utilizar juntas o por separado en tus post-producciones e ilustraciones
+**Tamaño de archivo:** 8.30 MB
 
-[Estos árboles fueron creados por Archez]
+**Formato:** PSD
+
+**Compatibilidad de software:** Adobe Photoshop
+
+**Contenido:** 5 ARCHIVOS PSD cada uno con un tipo diferente de árbol, cada árbol tiene 3 texturas diferentes que puedes editar y usar juntas o por separado en tus post-producciones e ilustraciones

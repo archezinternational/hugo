@@ -1,53 +1,61 @@
 ---
-title: "TREES PACK"
+title: "TREES N' PLANTS PACK"
 date: 2019-10-29T10:07:47+06:00
 draft: false
 
 # post thumb
-image: "images/packages/trees_pack.png"
+image: "images/packages/trees_n_plants.png"
 
 # meta description
-description: "Trees pack"
+description: "Trees n' plants pack"
 
 # taxonomies
 categories:
+  - "CAD BLOCKS"
   - "BEST SELLER"
-  - "PSD"
 tags:
-  - "Photos"
-  - "Game"
-  - "React"
-  - "Python"
-  - "New"
+  - "Architecture"
+  - "Cadblocks"
+  - "Assets"
+  - "Elevation"
+  - "Topview"
 
 # post type
 
 #price
-price: "$ 4.99"
+price: "$ 7.99"
 
 downloadPath: ""
 
 #Gumroad URL
-gumroadURL: "https://gumroad.com/archezinternational?sort=page_layout#fAahc"
+gumroadURL: "https://gumroad.com/archezinternational?sort=page_layout#SQOYI"
 
 ---
 
 ___
 
-Hi archifriends!
+Hi archifriend! Below I leave you all the specifications of this product:
 
-This trees pack contains:
+**File size:** Top view 6.1 MB | Elevation 17.1 MB
 
-5 psd files each with a different kind of tree, each tree has 3 different textures that you can edit them and use together or separately on your post-productions and illustrations
+**Format:** DWG
 
-[These trees were created by Archez]
+**Software compatibility:** AutoCAD
 
-___
+**Content:** 250+ CAD blocks suitable for top view and elevation view projects as well
 
-¡Hola archifriends!
+*You can buy them together or separately*
 
-Este pack de árboles contiene:
+_____
 
-5 archivos psd, cada uno con un tipo diferente de árbol, cada árbol tiene 3 texturas diferentes que puedes editar y utilizar juntas o por separado en tus post-producciones e ilustraciones
+¡Hola archifriend! A continuación te dejo todas las especificaciones de este producto:
 
-[Estos árboles fueron creados por Archez]
+**Tamaño de archivo:** Vista en planta 6.1 MB | Elevación 17.1 MB
+
+**Formato:** DWG
+
+**Compatibilidad de software:** AutoCAD
+
+**Contenido:** Más de 250 bloques CAD adecuados para proyectos de vista en planta y vista en alzado también
+
+*Puedes comprarlos juntos o por separado*

@@ -1,54 +1,58 @@
 ---
-title: "TREES PACK"
+title: "PLANTS PACK"
 date: 2019-10-29T10:07:47+06:00
 draft: false
 
 # post thumb
-image: "images/packages/trees_pack.png"
+image: "images/packages/plants_pack.png"
 
 # meta description
-description: "Trees pack"
+description: "Plants pack"
 
 # taxonomies
 categories:
-  - "BEST SELLER"
-  - "PSD"
+  - "PNG"
+  - "CUTOUTS"
 tags:
-  - "Photos"
-  - "Game"
-  - "React"
-  - "Python"
-  - "New"
+  - "Architecture"
+  - "Cutouts"
+  - "Plants"
+  - "Assets"
+  - "Png"
 
 # post type
 type: "featured"
 
 #price
-price: "$ 4.99"
+price: "$ 7.99"
 
 downloadPath: ""
 
 #Gumroad URL
-gumroadURL: "https://gumroad.com/archezinternational?sort=page_layout#fAahc"
+gumroadURL: "https://gumroad.com/archezinternational?sort=page_layout#EHorz"
 
 ---
 
 ___
 
-Hi archifriends!
+Hi archifriend! Below I leave you all the specifications of this product:
 
-This trees pack contains:
+**File size:** 53.6 MB
 
-5 psd files each with a different kind of tree, each tree has 3 different textures that you can edit them and use together or separately on your post-productions and illustrations
+**Format:** PNG
 
-[These trees were created by Archez]
+**Software compatibility:** Every software that supports images like Adobe Photoshop, SketchUp...
 
-___
+**Content:** 50 high quality png images that you can use for your post-productions and illustrations
 
-¡Hola archifriends!
+_____
 
-Este pack de árboles contiene:
+¡Hola archifriend! A continuación te dejo todas las especificaciones de este producto:
 
-5 archivos psd, cada uno con un tipo diferente de árbol, cada árbol tiene 3 texturas diferentes que puedes editar y utilizar juntas o por separado en tus post-producciones e ilustraciones
+**Tamaño de archivo:** 53.6 MB
 
-[Estos árboles fueron creados por Archez]
+**Formato:** PNG
+
+**Compatibilidad de software:** cualquier software que admita imágenes como Adobe Photoshop, SketchUp...
+
+**Contenido:** 50 imágenes png de alta calidad que puedes utilizar para tus post-producciones e ilustraciones

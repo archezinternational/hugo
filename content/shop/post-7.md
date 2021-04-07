@@ -1,167 +1,67 @@
 ---
-title: "How To Use Checklists To Improve Your UX"
+title: "ADS: BASIC COUPON"
 date: 2019-10-29T10:07:47+06:00
 draft: false
 
 # post thumb
-image: "images/post/post-4.jpg"
+image: "images/coupons/basic_1.png"
 
 # meta description
-description: "this is meta description"
+description: "Basic coupon"
 
 # taxonomies
-categories: 
-  - "Go Language"
+categories:
+  - "GROW WITH ARCHEZ"
+  - "COUPON"
+  - "BEST SELLER"
 tags:
-  - "Photos"
-  - "Game"
-  - "HTML"
-  - "Python"
-  - "New"
+  - "Architecture"
+  - "ADS"
+  - "Promote"
+  - "Coupons"
+  - "Grow"
 
 # post type
-type: "post"
+type: "featured"
+
+#price
+price: "$ 2.99"
+
+downloadPath: ""
+
+#Gumroad URL
+gumroadURL: "https://gumroad.com/archezinternational?sort=page_layout#ItuRP"
+
 ---
 
-# Heading 1
-## Heading 2
-### Heading 3
-#### Heading 4
-##### Heading 5
-###### Heading 6
+___
 
-<hr>
+Hi archifriend!
 
-##### Emphasis
+Would you like to grow your account? Do you want to advertise your account, workshop, product, etc.? Then #GrowWithArchez is for you!
 
-Emphasis, aka italics, with *asterisks* or _underscores_.
+**This coupon allows you to: Be on our @archezinternational stories during a 24h period on instagram and facebook + call to action (follow, check it out, buy, etc)**
 
-Strong emphasis, aka bold, with **asterisks** or __underscores__.
+· Every monday we will have a special section in our stories for you
 
-Combined emphasis with **asterisks and _underscores_**.
+· We will only post architects, students, studios, offices, artists, engineers, amateur architects. We will not promote contests due to legal policies
 
-Strikethrough uses two tildes. ~~Scratch this.~~
+· After making the purchase you will receive an email with the instructions
 
-<hr>
+**Important:** Make sure you've read all the information. The swipe-up feature is optional and involves an increase in the final price of the coupon
 
-##### Link
-[I'm an inline-style link](https://www.google.com)
+_____
 
-[I'm an inline-style link with title](https://www.google.com "Google's Homepage")
+¡Hola archifriend!
 
-[I'm a reference-style link][Arbitrary case-insensitive reference text]
+¿Te gustaría hacer crecer tu cuenta? ¿Quieres publicitar tu cuenta, taller, producto, etc.? ¡Entonces #GrowWithArchez es para ti!
 
-[I'm a relative reference to a repository file](../blob/master/LICENSE)
+**Este cupón te permite: Estar en nuestras historias de @archezinternational durante un período de 24 horas en instagram y facebook + llamada a la acción (sigue, revisa, compra, etc.)**
 
-[You can use numbers for reference-style link definitions][1]
+· Todos los lunes tendremos una sección especial en nuestra stories para ustedes
 
-Or leave it empty and use the [link text itself].
+· Podrás ser recomendado como arquitecto, estudiante, estudio/oficina, artista, ingeniero o entusiasta de la arquitectura. No promocionamos concursos por políticas legales
 
-URLs and URLs in angle brackets will automatically get turned into links. 
-http://www.example.com or <http://www.example.com> and sometimes 
-example.com (but not on Github, for example).
+· Después de realizar la compra recibirás un correo electrónico con las instrucciones
 
-Some text to show that the reference links can follow later.
-
-[arbitrary case-insensitive reference text]: https://www.mozilla.org
-[1]: http://slashdot.org
-[link text itself]: http://www.reddit.com
-
-<hr>
-
-##### Paragraph
-
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam nihil enim maxime corporis cumque totam aliquid nam sint inventore optio modi neque laborum officiis necessitatibus, facilis placeat pariatur! Voluptatem, sed harum pariatur adipisci voluptates voluptatum cumque, porro sint minima similique magni perferendis fuga! Optio vel ipsum excepturi tempore reiciendis id quidem? Vel in, doloribus debitis nesciunt fugit sequi magnam accusantium modi neque quis, vitae velit, pariatur harum autem a! Velit impedit atque maiores animi possimus asperiores natus repellendus excepturi sint architecto eligendi non, omnis nihil. Facilis, doloremque illum. Fugit optio laborum minus debitis natus illo perspiciatis corporis voluptatum rerum laboriosam.
-
-<hr>
-
-##### List
-
-1. List item
-2. List item
-3. List item
-4. List item
-5. List item
-
-##### Unordered List
-
-* List item
-* List item
-* List item
-* List item
-* List item
-
-<hr>
-
-##### Code and Syntax Highlighting
-
-Inline `code` has `back-ticks around` it.
-
-```javascript
-var s = "JavaScript syntax highlighting";
-alert(s);
-```
- 
-```python
-s = "Python syntax highlighting"
-print s
-```
- 
-```
-No language indicated, so no syntax highlighting. 
-But let's throw in a <b>tag</b>.
-```
-
-<hr>
-
-##### Blockquote
-
-> This is a blockquote example.
-
-<hr>
-
-##### Inline HTML
-
-You can also use raw HTML in your Markdown, and it'll mostly work pretty well.
-
-<dl>
-  <dt>Definition list</dt>
-  <dd>Is something people use sometimes.</dd>
-
-  <dt>Markdown in HTML</dt>
-  <dd>Does *not* work **very** well. Use HTML <em>tags</em>.</dd>
-</dl>
-
-
-<hr>
-
-##### Tables
-
-Colons can be used to align columns.
-
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
-
-There must be at least 3 dashes separating each header cell.
-The outer pipes (|) are optional, and you don't need to make the 
-raw Markdown line up prettily. You can also use inline Markdown.
-
-Markdown | Less | Pretty
---- | --- | ---
-*Still* | `renders` | **nicely**
-1 | 2 | 3
-
-<hr>
-
-##### Image
-
-![image](../../images/post/post-1.jpg)
-
-<hr>
-
-##### Youtube video
-
-{{< youtube C0DPdy98e4c >}}
+**Importante:** Asegúrate de haber leído toda la información. La función de deslizar hacia arriba es opcional e implica un aumento en el precio final del cupón

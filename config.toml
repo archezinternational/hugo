@@ -99,7 +99,7 @@ author = "Archez International"
 email = "info@archezinternational.com"
 location = "Medellín, Colombia"
 # copyright
-copyright = "&copy; Archez International 2021 | All Rights Reserved"
+copyright = "&copy; Archez International 2021"
 customCSS = ["css/custom_styles.css"]
 googleFontName = "Poppins"
 
