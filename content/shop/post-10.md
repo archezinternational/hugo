@@ -4,7 +4,7 @@ date: 2019-10-29T10:07:47+06:00
 draft: false
 
 # post thumb
-image: "images/coupons/super_supporter_1.png"
+image: "images/coup/super_supporter_1.png"
 
 # meta description
 description: "Super supporter coupon"

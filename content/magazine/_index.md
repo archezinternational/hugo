@@ -48,4 +48,6 @@ sub_title_description : "1st edition"
 · The information (images and description) shared with us for the Archez Magazine 2021 will not be shared with 3rd parties
 
 
-*ARE YOU READY TO PARTICIPATE? SEE YOU WITH ALL THE WINNERS!*
+**Are you ready to participate? See you with all the winners!**
+
+---
