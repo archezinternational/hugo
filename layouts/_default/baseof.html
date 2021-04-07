@@ -1,13 +1,9 @@
 <!DOCTYPE html>
 <html lang="{{ with .Site.LanguageCode }}{{ . }}{{ else }}en-US{{ end }}">
 
-  {{ range .Site.Params.customCSS -}}
-    <link rel="stylesheet" href="{{ . | absURL }} ">
-  {{- end }}
 
   <link rel="preconnect" href="https://fonts.gstatic.com"> 
   <link href="https://fonts.googleapis.com/css2?family={{ .Site.Params.googleFontName }}:wght@100;300;400;500;600;700;800;900&display=swap" rel="stylesheet">
-
     {{- partial "head.html" . -}}
     <body>
         {{- partial "preloader.html" . -}}
@@ -15,7 +11,9 @@
         {{- block "main" . }}{{- end }}
         {{- partial "footer.html" . -}}
     </body>
-
+{{ range .Site.Params.customCSS -}}
+<link rel="stylesheet" href="{{ . | absURL }} ">
+{{- end }}
 <!-- The core Firebase JS SDK is always required and must be listed first -->
 <script src="https://www.gstatic.com/firebasejs/8.3.2/firebase-app.js"></script>
 
