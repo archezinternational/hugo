@@ -10,6 +10,12 @@
             <img src="{{ .Params.Image | absURL }}" class="card-img-top" alt="{{ .Title | markdownify }}">
         </a>
         {{ end }}
+        {{ if .Params.OverImage }}
+        <a href="{{ .Permalink }}" class='over-image-container'>
+            <img src="{{ .Params.OverImage | absURL }}" class="card-img-top" alt="{{ .Title | markdownify }}">
+        </a>
+        {{ end }}
+
         <div class="card-body px-0">
             {{ range .Params.Categories }}
             <a href="{{ `categories/` | relLangURL }}{{ . | urlize | lower }}"
