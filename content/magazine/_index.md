@@ -18,12 +18,11 @@ sub_title_description : "1st edition"
 
 ![image](../../images/magazine/2.png)
 
-|**HOW TO PARTICIPATE**             |**THE RULES**
-| --------------------------------- |:---------------------------------
-|· Post your project                |· Creation and use of a custom colors palette
-|· Tag us @archezinternational      |· Creation and use of textures
+|**HOW TO PARTICIPATE**                 |**THE RULES**
+| ------------------------------------- |:---------------------------------
+|· Post your project                    |· Creation and use of a custom colors palette
+|· Tag us @archezinternational          |· Creation and use of textures
 |· Use the hashtag #archezinternational |· Creativity
-|· Share with your mates           
 ---
 
 **IMPORTANT NOTES**
