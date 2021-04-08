@@ -16,9 +16,12 @@
             </div>
             <div class="col-md-6 offset-md-1">
               <div class="card-body">
+                {{ range .Params.Categories }}
+                <a href="{{ `categories/` | relLangURL }}{{ . | urlize | lower }}"
+                    class="text-primary">{{ . }} |</a>
+                {{ end }}
                 <a href="{{ .Permalink }}"
                   class="h1 font-weight-bold d-block text-dark mb-4 card-title">{{ .Title | markdownify }}</a>
-                <p class="card-text">{{.Summary}}...</p>
               </div>
             </div>
           </div>
