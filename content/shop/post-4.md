@@ -4,8 +4,8 @@ date: 2019-10-29T10:07:47+06:00
 draft: false
 
 # post thumb
-image: "images/packages/trees_n_plants.png"
-OverImage: "images/packages/tiles_pack.png"
+image: "images/packages/top view.png"
+OverImage: "images/packages/trees_n_plants.png"
 
 # meta description
 description: "Trees n' plants pack"

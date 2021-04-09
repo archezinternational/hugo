@@ -4,7 +4,8 @@ date: 2019-10-29T10:07:47+06:00
 draft: false
 
 # post thumb
-image: "images/packages/tiles_pack.png"
+image: "images/packages/tiles pack 2.png"
+OverImage: "images/packages/tiles_pack.png"
 
 # meta description
 description: "Tiles pack"

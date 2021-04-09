@@ -4,7 +4,7 @@ date: 2019-10-29T13:49:23+06:00
 draft: false
 
 # image
-image: "images/magazine_esp.jpeg"
+image: "images/magazine.png"
 
 # meta description
 description: "this is meta description"
@@ -16,7 +16,7 @@ sub_title : "ARCHEZ MAGAZINE 2020"
 sub_title_description : "1st edition"
 ---
 
-![image](../../images/magazine/2.png)
+![image](../../images/magazine_eng.jpeg)
 
 |**COMO PARTICIPAR**                        |**REGLAS**
 | -------------------------------------     |:---------------------------------
