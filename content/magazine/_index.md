@@ -16,8 +16,6 @@ sub_title : "ARCHEZ MAGAZINE 2020"
 sub_title_description : "1st edition"
 ---
 
-![image](../../images/magazine_esp.jpeg)
-
 |**HOW TO PARTICIPATE**                 |**THE RULES**
 | ------------------------------------- |:---------------------------------
 |· Post your project                    |· Creation and use of a custom colors palette
