@@ -44,7 +44,7 @@ Hi archifriend! Below I leave you all the specifications of this product:
 
 **Software compatibility:** Adobe Photoshop
 
-**Content:** 5 PSD FILES each with a different kind of tree, each tree has 3 different textures that you can edit them and use together or separately on your post-productions and illustrations
+**Content:** 5 PSD files each with a different kind of tree, each tree has 3 different textures that you can edit them and use together or separately on your post-productions and illustrations
 
 _____
 
@@ -56,4 +56,4 @@ _____
 
 **Compatibilidad de software:** Adobe Photoshop
 
-**Contenido:** 5 ARCHIVOS PSD cada uno con un tipo diferente de árbol, cada árbol tiene 3 texturas diferentes que puedes editar y usar juntas o por separado en tus post-producciones e ilustraciones
+**Contenido:** 5 archivos PSD cada uno con un tipo diferente de árbol, cada árbol tiene 3 texturas diferentes que puedes editar y usar juntas o por separado en tus post-producciones e ilustraciones
