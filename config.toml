@@ -105,7 +105,7 @@ googleFontName = "Poppins"
 
   # Preloader
   [params.preloader]
-  enable = true
+  enable = false
   preloader = "/images/loader.gif" # use .png , .svg or .gif format
 
   # search
