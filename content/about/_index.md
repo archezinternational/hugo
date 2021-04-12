@@ -28,13 +28,13 @@ Our mission is to support you as an architect or student by providing you with t
 
 Behind all this project, there's one person with lots of dreams and illusions working hard every day, giving his best as a person and professional
 
-Hi archifriend! I'm Daniela Sánchez, and I called this project "Archez International" because it excites me to think that one day will become a huge architectural studio with incredible people working along with me on every architectural branch
+Hi archifriend! I'm **Daniela Sánchez**, and I called this project "Archez International" because it excites me to think that one day will become a huge architectural studio with incredible people working along with me on every architectural branch
 
 I was born, raised, and studied in Venezuela. Finished my architecture studies in 2019, I graduated with honors, and from then I proposed myself to make grow this project. I consider myself a self-taught person, always willing to learn and I love to create.
 
 Archez International was born in August 2018, with the main goal of being a digital magazine. From the beginning of the project, I've been very constant, with highs and lows, as everything, but I'm willing to bring you all the best. Definitely, if I could turn back time I would create Archez International the same way I did back then.
 
-What passionates me the most, is that this project has allowed me to have many great experiences within the architectural field with people from Venezuela, Colombia, México, Argentina, España, Italia, Russia, Libano, Algeria, Reino Unido, Bulgaria, Kosovo, Polonia, Egipto, Taiwan, Rumania, Portugal, Malasia and so many more around the globe, without any doubt that inspires me every day and fills me with the desire to keep going on, putting my heart and mind in Archez International
+What passionates me the most, is that this project has allowed me to have many great experiences within the architectural field with people from Venezuela, Colombia, Mexico, Argentina, Spain, Italy, Russia, Lebanon, Algeria, United Kingdom, Bulgaria, Kosovo, Poland, Egypt, Taiwan, Romania, Portugal, Malaysia and so many more around the globe, without any doubt that inspires me every day and fills me with the desire to keep going on, putting my heart and mind in Archez International
 
 If you made it this far, thanks for reading me. And if you'd like to work along with me on this project or have any comments, write me.
 

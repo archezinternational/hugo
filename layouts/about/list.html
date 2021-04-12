@@ -7,7 +7,10 @@
         {{ if .Params.Image }}
         <img src="{{ .Params.Image | absURL }}" alt="" class="img-fluid d-block mx-auto rounded-circle mb-4">
         {{ end }}
-        <h4 class="widget-title">{{ .Title | markdownify }}</h4>
+        <div class='flex-v'>
+          <h4 class="widget-title">{{ .Title | markdownify }}</h4>
+          <a class='magazine-version' href="/about-esp">español</a>
+        </div>
         <div class="content">
           {{ .Content }}
         </div>
