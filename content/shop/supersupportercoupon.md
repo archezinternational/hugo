@@ -1,14 +1,14 @@
 ---
-title: "SUPPORTER COUPON"
+title: "SUPER SUPPORTER COUPON"
 date: 2019-10-29T10:07:47+06:00
 draft: false
 
 # post thumb
-image: "images/coup/SUPPORTER 2.png"
-OverImage: "images/coup/supporter_1.png"
+image: "images/coup/SUPER SUPPORTER 2.png"
+OverImage: "images/coup/super_supporter_1.png"
 
 # meta description
-description: "Supporter coupon"
+description: "Super supporter coupon"
 
 # taxonomies
 categories:
@@ -22,10 +22,9 @@ tags:
   - "Supporter"
 
 # post type
-type: "featured"
 
 #price
-price: "$ 2.00"
+price: "$ 4.99"
 
 downloadPath: ""
 
@@ -40,7 +39,7 @@ Hi archifriend!
 
 Thank you for your support!
 
-**This coupon allows you to: Be reposted on our @archezinternational stories and stay there during a 24h period both on instagram and facebook stories**
+**This coupon allows you to: Be reposted on our @archezinternational stories and stay there during a 24h period each monday during 4 consecutive weeks both on instagram and facebook stories (for a total of 4 reposts)**
 
 · Every monday we will have a special section in our stories for you
 
@@ -52,7 +51,7 @@ _____
 
 ¡Gracias por tu apoyo!
 
-**Este cupón es válido para: Ser resposteado en nuestras historias de @archezinternational y permanecer allí durante un período de 24h tanto en instagram como en facebook**
+**Este cupón es válido para: Ser reposteado en nuestras historias de @archezinternational y quedarte allí durante un período de 24h cada lunes durante 4 semanas consecutivas tanto en instagram como en facebook stories (para un total de 4 reposts)**
 
 · Todos los lunes tendremos una sección especial en nuestra stories para ustedes
 

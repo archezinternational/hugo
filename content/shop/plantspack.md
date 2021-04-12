@@ -54,6 +54,6 @@ _____
 
 **Formato:** PNG
 
-**Compatibilidad de software:** cualquier software que admita imágenes como Adobe Photoshop, SketchUp...
+**Compatibilidad de software:** Cualquier software que admita imágenes como Adobe Photoshop, SketchUp...
 
 **Contenido:** 50 imágenes png de alta calidad que puedes utilizar para tus post-producciones e ilustraciones
