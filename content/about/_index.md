@@ -30,7 +30,7 @@ Behind all this project, there's one person with lots of dreams and illusions wo
 
 Hi archifriend! I'm **Daniela Sánchez**, and I called this project "Archez International" because it excites me to think that one day will become a huge architectural studio with incredible people working along with me on every architectural branch
 
-I was born, raised, and studied in Venezuela. Finished my architecture studies in 2019, I graduated with honors, and from then I proposed myself to make grow this project. I consider myself a self-taught person, always willing to learn and I love to create.
+I was born, raised, and studied in Venezuela. Finished my architecture studies in 2019, I graduated as an architect with honors, and from then I proposed myself to make grow this project. I consider myself a self-taught person, always willing to learn and I love to create.
 
 Archez International was born in August 2018, with the main goal of being a digital magazine. From the beginning of the project, I've been very constant, with highs and lows, as everything, but I'm willing to bring you all the best. Definitely, if I could turn back time I would create Archez International the same way I did back then.
 

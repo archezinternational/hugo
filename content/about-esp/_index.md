@@ -30,7 +30,7 @@ Detrás de todo este proyecto, hay una persona con muchos sueños e ilusiones tr
 
 ¡Hola archifriend! Soy **Daniela Sánchez**, y llamé a este proyecto “Archez International” porque me emociona pensar en que un día será un gran estudio de arquitectura físico con un grupo de arquitectos increíbles trabajando conmigo en varias ramas de la arquitectura.
 
-Nací, crecí y estudié en Venezuela. Culminé mis estudios en 2019, fui egresada con honores, y desde entonces me propuse a hacer crecer este proyecto. Me considero una persona autodidacta, siempre estoy dispuesta a aprender y me encanta crear.
+Nací, crecí y estudié en Venezuela. Culminé mis estudios en 2019, fui egresada como arquitecto con honores, y desde entonces me propuse a hacer crecer este proyecto. Me considero una persona autodidacta, siempre estoy dispuesta a aprender y me encanta crear.
 
 Archez International nace en agosto de 2018, con el principal objetivo de convertirlo en una revista digital. Desde que inicié este proyecto he sido muy constante, he tenido altas y bajas como todo, pero siempre estoy dispuesta a brindarles todo lo mejor. En definitiva, si volviera en el tiempo crearía exactamente a Archez International, no le cambiaría nada.
 
