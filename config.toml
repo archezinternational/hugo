@@ -66,8 +66,8 @@ disqusShortname = ""
   weight = 4
 
   [[menu.main]]
-  name = "Features"
-  URL = "features"
+  name = "Featured"
+  URL = "featured"
   weight = 5
 
   # footer menu
