@@ -3,9 +3,17 @@ title: "TILES PACK"
 date: 2019-10-29T10:07:47+06:00
 draft: false
 
+id: "tilespack"
+image: "images/packages/tilespack_1.png"
+images: [
+  "images/packages/tilespack_1.png",
+  "images/packages/tilespack_2.png",
+  "images/packages/tilespack_3.png"
+]
+
 # post thumb
-image: "images/packages/tiles pack 2.png"
-OverImage: "images/packages/tiles_pack.png"
+image: "images/packages/tilespack_3.png"
+OverImage: "images/packages/tilespack_1.png"
 
 # meta description
 description: "Tiles pack"

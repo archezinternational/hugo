@@ -3,6 +3,14 @@ title: "TREES PACK"
 date: 2019-10-29T10:07:47+06:00
 draft: false
 
+id: "treespack"
+image: "images/packages/treespack_1.png"
+images: [
+  "images/packages/treespack_1.png",
+  "images/packages/treespack_2.png",
+  "images/packages/treespack_3.png"
+]
+
 # post thumb
 image: "images/packages/trees_pack_2.png"
 OverImage: "images/packages/trees_pack.png"

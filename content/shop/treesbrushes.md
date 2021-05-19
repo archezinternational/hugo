@@ -3,9 +3,16 @@ title: "TREES BRUSHES"
 date: 2019-10-29T10:07:47+06:00
 draft: false
 
+id: "treesbrushes"
+image: "images/packages/textures_1.png"
+images: [
+  "images/packages/treesbrushes_1.png",
+  "images/packages/treesbrushes_2.png"
+]
+
 # post thumb
-image: "images/packages/trees_brushes_2.png"
-OverImage: "images/packages/treesbrushes1.png"
+image: "images/packages/treesbrushes_2.png"
+OverImage: "images/packages/treesbrushes_1.png"
 
 # meta description
 description: "Trees brushes"

@@ -4,12 +4,10 @@ date: 2019-10-29T10:07:47+06:00
 draft: false
 
 id: "supersupportercoupon"
-image: "images/coup/SUPER SUPPORTER 2.png"
+image: "images/coup/supersupporter_1.png"
 images: [
-  "images/coup/STANDART 2.png",
-  "images/packages/plants_pack.png",
-  "images/packages/textures_3.png",
-  "images/coup/supporter_1.png"
+  "images/coup/supersupporter_1.png",
+  "images/coup/supersupporter_2.png"
 ]
 
 # meta description

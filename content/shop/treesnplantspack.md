@@ -3,6 +3,14 @@ title: "TREES N' PLANTS PACK"
 date: 2019-10-29T10:07:47+06:00
 draft: false
 
+id: "treesnplantspack"
+image: "images/packages/treesnplantspack_1.png"
+images: [
+  "images/packages/treesnplantspack_1.png",
+  "images/packages/treesnplantspack_2.png",
+  "images/packages/treesnplantspack_3.png"
+]
+
 # post thumb
 image: "images/packages/top view.png"
 OverImage: "images/packages/trees_n_plants.png"

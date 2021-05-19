@@ -3,9 +3,17 @@ title: "PLANTS PACK"
 date: 2019-10-29T10:07:47+06:00
 draft: false
 
+id: "plantspack"
+image: "images/packages/plantspack_1.png"
+images: [
+  "images/packages/plantspack_1.png",
+  "images/packages/plantspack_2.png",
+  "images/packages/plantspack_3.png"
+  ]
+
 # post thumb
-image: "images/packages/plants pack 2.png"
-OverImage: "images/packages/plants_pack.png"
+image: "images/packages/plantspack_3.png"
+OverImage: "images/packages/plantspack_1.png"
 
 # meta description
 description: "Plants pack"

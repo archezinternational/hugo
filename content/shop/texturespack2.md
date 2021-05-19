@@ -3,6 +3,13 @@ title: "TEXTURES PACK #2"
 date: 2019-10-29T10:07:47+06:00
 draft: false
 
+id: "texturespack2"
+image: "images/packages/textures_2.png"
+images: [
+  "images/packages/textures_2.png",
+  "images/packages/textures_22.png"
+]
+
 # post thumb
 image: "images/packages/textures 22.png"
 OverImage: "images/packages/textures_2.png"

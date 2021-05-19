@@ -3,6 +3,13 @@ title: "SUPPORTER COUPON"
 date: 2019-10-29T10:07:47+06:00
 draft: false
 
+id: "supportercoupon"
+image: "images/coup/supporter_1.png"
+images: [
+  "images/coup/supporter_1.png",
+  "images/coup/supporter_2.png"
+]
+
 # post thumb
 image: "images/coup/SUPPORTER 2.png"
 OverImage: "images/coup/supporter_1.png"
