@@ -5,6 +5,12 @@ draft: false
 
 # post thumb
 image: "images/coup/STANDART 2.png"
+images: [
+  "images/coup/STANDART 2.png",
+  "images/packages/plants_pack.png",
+  "images/packages/textures_3.png",
+  "images/coup/supporter_1.png"
+]
 OverImage: "images/coup/standart_1.png"
 
 # meta description
