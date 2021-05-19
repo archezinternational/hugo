@@ -5,16 +5,36 @@
         {{ end }}
     {{ end }}
     <article class="card">
-        {{ if .Params.Image }}
-        <a href="{{ .Permalink }}">
-            <img src="{{ .Params.Image | absURL }}" class="card-img-top" alt="{{ .Title | markdownify }}">
-        </a>
+        {{if .Params.Images}}
+        <section class="carousel" id='{{ .Params.id }}'>
+          <div class="carousel-images-container">
+            {{ range .Params.Images }}
+            <img src="{{ . | absURL }}" class='carousel-image-item'/>
+            {{ end }}
+          </div>
+            <aside class="carousel__navigation">
+              <ol class="carousel__navigation-list">
+                  {{ range .Params.Images }}
+                    <li class="carousel__navigation-item"></li>
+                      <div class="carousel__navigation-button"></div>
+                    </li>
+                  {{ end }}
+              </ol>
+            </aside>
+          <div class="carousel-action-buttons">
+            <div id="{{.Params.id}}_prev-button" class='prev-button'></div>
+            <div id="{{.Params.id}}_next-button" class='next-button'></div>
+          </div>
+        </section>
         {{ end }}
-        {{ if .Params.OverImage }}
-        <a href="{{ .Permalink }}" class='over-image-container'>
-            <img src="{{ .Params.OverImage | absURL }}" class="card-img-top" alt="{{ .Title | markdownify }}">
-        </a>
-        {{ end }}
+        
+        <div id="{{.Params.id}}_single-image-container">
+          {{ if .Params.OverImage }}
+          <img src="{{ .Params.OverImage | absURL }}" class="img-fluid w-100 mb-4" alt="{{ .Title | markdownify }}">
+          {{ else if .Params.Image }}
+          <img src="{{ .Params.Image | absURL }}" class="img-fluid w-100 mb-4" alt="{{ .Title | markdownify }}">
+          {{ end }}
+        </div>
 
         <div class="card-body px-0">
             {{ range .Params.Categories }}
@@ -31,3 +51,47 @@
         </div>
     </article>
 </div>
+{{if (and (.Params.id)  (.Params.Images)) }}
+<script>
+    carousel["{{.Params.id}}_index"] = 0;
+    carousel["{{.Params.id}}_bullets"] = document.querySelectorAll("#{{ .Params.id }} .carousel__navigation-button")
+    carousel["{{.Params.id}}_images"] = document.querySelectorAll("#{{ .Params.id }} .carousel-image-item")
+    if (carousel["{{.Params.id}}_images"].length > 0) document.querySelector("#{{ .Params.id }}_single-image-container").style = "{vissibility: hidden;}";
+    
+    for (let i = 0; i < carousel["{{.Params.id}}_images"].length; i++) {
+      let image = carousel["{{.Params.id}}_images"][i];
+      if (i > 0) image.classList.add('hidden');
+      carousel["{{.Params.id}}_bullets"][0].classList.add('active');
+      let url = image.dataset.img;
+      image.style.setProperty("background-color", "url("+ url +")");
+    };
+      
+    document.addEventListener('click', function (event) {
+      
+      if (event.target.matches('#{{.Params.id}}_prev-button')) {
+        carousel["{{.Params.id}}_index"]--;
+        if (carousel["{{.Params.id}}_index"] < 0) carousel["{{.Params.id}}_index"] = carousel["{{.Params.id}}_images"].length - 1;
+        for (let i = 0; i < carousel["{{.Params.id}}_images"].length; i++) {
+          carousel["{{.Params.id}}_images"][i].classList.add('hidden');
+          carousel["{{.Params.id}}_bullets"][i].classList.remove('active');
+        };
+        
+        carousel["{{.Params.id}}_images"][carousel["{{.Params.id}}_index"]].classList.remove('hidden')
+        carousel["{{.Params.id}}_bullets"][carousel["{{.Params.id}}_index"]].classList.add('active');
+      }
+  
+      if (event.target.matches('#{{.Params.id}}_next-button')) {
+        carousel["{{.Params.id}}_index"]++;
+        if (carousel["{{.Params.id}}_index"] >= carousel["{{.Params.id}}_images"].length) carousel["{{.Params.id}}_index"] = 0;
+        for (let i = 0; i < carousel["{{.Params.id}}_images"].length; i++) {
+          carousel["{{.Params.id}}_images"][i].classList.add('hidden');
+          carousel["{{.Params.id}}_bullets"][i].classList.remove('active');
+        };
+  
+        carousel["{{.Params.id}}_images"][carousel["{{.Params.id}}_index"]].classList.remove('hidden')
+        carousel["{{.Params.id}}_bullets"][carousel["{{.Params.id}}_index"]].classList.add('active');
+      }
+  
+        }, false);
+</script>
+{{ end }}

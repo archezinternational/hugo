@@ -7,10 +7,10 @@
         <div class="row">
           <div class="col-lg-6 flex-v">
             <div>
-				{{ range .Params.Categories }}
-					<a href="{{ `categories/` | relLangURL }}{{ . | urlize | lower }}" class="text-primary">{{ . }} |</a>
-			    {{ end }}
-			</div>
+				    {{ range .Params.Categories }}
+					  <a href="{{ `categories/` | relLangURL }}{{ . | urlize | lower }}" class="text-primary">{{ . }} |</a>
+			      {{ end }}
+			      </div>
             <h2>{{ .Title | markdownify }}</h2>
             <div class="mb-3 post-meta">
               <span>By {{if .Params.Author}}{{ .Params.Author }}{{else}}{{.Site.Params.Author}}{{end}}</span>
@@ -18,7 +18,7 @@
             {{ if .Params.price }}
             <div>
               <div class="col-12 row mb-4">
-                <div class='col-sm-6 '>
+                <div class='col-sm-6'>
                     <div class='row align-items-center price'>
                         <p class='text-center w-100'>
                             {{ .Params.price }}
@@ -32,32 +32,43 @@
 			    <p class='purchase-disclaimer'>All purchases will be made through our <a href="https://gumroad.com/archezinternational" target="_blank">gumroad</a> account. For direct payment methods (US or Colombian Banks, personal Paypal account) <a href="mailto:payments@archezinternational.com?subject=Direct payment request">contact us</a></p>
           </div>
           <div class="col-lg-6">
-            <section class="carousel" aria-label="Gallery">
-              
-				<div class="carousel-images-container">
-					{{ range .Params.Images }}
-					<div style="background-image: url({{ . | absURL }});" class='carousel-image-item'></div>
-					{{ end }}
-				</div>
-          <aside class="carousel__navigation">
-            <ol class="carousel__navigation-list">
+            {{if .Params.Images}}
+            <section class="carousel">
+              <div class="carousel-images-container">
                 {{ range .Params.Images }}
-                  <li class="carousel__navigation-item"></li>
-                    <a href="#" class="carousel__navigation-button"></a>
-                  </li>
+                <img src="{{ . | absURL }}" class='carousel-image-item'/>
                 {{ end }}
-            </ol>
-          </aside>
-				<div class="carousel-action-buttons">
-					<div class="prev-button"></div>
-					<div class="next-button"></div>
-				</div>
+              </div>
+                <aside class="carousel__navigation">
+                  <ol class="carousel__navigation-list">
+                      {{ range .Params.Images }}
+                        <li class="carousel__navigation-item"></li>
+                          <div class="carousel__navigation-button"></div>
+                        </li>
+                      {{ end }}
+                  </ol>
+                </aside>
+              <div class="carousel-action-buttons">
+                <div class="prev-button"></div>
+                <div class="next-button"></div>
+              </div>
             </section>
-
+            {{ end }}
+            
+            <div id="single-image-container">
+              {{ if .Params.OverImage }}
+              <img src="{{ .Params.OverImage | absURL }}" class="img-fluid w-100 mb-4" alt="{{ .Title | markdownify }}">
+              {{ else if .Params.Image }}
+              <img src="{{ .Params.Image | absURL }}" class="img-fluid w-100 mb-4" alt="{{ .Title | markdownify }}">
+              {{ end }}
+            </div>
           </div>
         </div>
-        <div class="content mb-5">
+        <div class="content">
           {{ .Content }}
+        </div>
+        <div class="flex-h w-100 mt-5">
+          <a href="{{ .Params.gumroadURL }}" target="_blank" class="btn btn-outline-primary w-40">BUY</a>
         </div>
         <!-- comments -->
         {{ template "_internal/disqus.html" . }}
@@ -65,228 +76,54 @@
     </div>
   </div>
 </section>
+
+<style>
+  .section-sm {
+    padding-bottom: 0px !important;
+  }
+</style>
 <script>
+  
   let carouselIndex = 0;
+  
 	let images = document.getElementsByClassName("carousel-image-item")
+  if (images.length > 0) document.getElementById("single-image-container").classList.add('hidden')
+  let bullets = document.getElementsByClassName("carousel__navigation-button")
+  
   for (let i = 0; i < images.length; i++) {
     let image = images[i];
-    if (i > 0) image.classList.add('hide');
+    if (i > 0) image.classList.add('hidden');
+    bullets[0].classList.add('active');
     let url = image.dataset.img;
     image.style.setProperty("background-color", "url("+ url +")");
   };
 	
-  document.addEventListener('click', function (event) {
+document.addEventListener('click', function (event) {
 	
 	if (event.target.matches('.prev-button')) {
-      carouselIndex++;
+      carouselIndex--;
+      if (carouselIndex < 0) carouselIndex = images.length - 1;
+      for (let i = 0; i < images.length; i++) {
+        images[i].classList.add('hidden');
+        bullets[i].classList.remove('active');
+      };
+
+      images[carouselIndex].classList.remove('hidden')
+      bullets[carouselIndex].classList.add('active');
 	}
 
 	if (event.target.matches('.next-button')) {
-    carouselIndex--;
-	}
+      carouselIndex++;
+      if (carouselIndex >= images.length) carouselIndex = 0;
+      for (let i = 0; i < images.length; i++) {
+        images[i].classList.add('hidden');
+        bullets[i].classList.remove('active');
+      };
 
-  	}, false);
+      images[carouselIndex].classList.remove('hidden')
+      bullets[carouselIndex].classList.add('active');
+	}
+}, false);
 </script>
-
-<style>
-  @keyframes tonext {
-  75% {
-    left: 0;
-  }
-  95% {
-    left: 100%;
-  }
-  98% {
-    left: 100%;
-  }
-  99% {
-    left: 0;
-  }
-}
-
-@keyframes tostart {
-  75% {
-    left: 0;
-  }
-  95% {
-    left: -300%;
-  }
-  98% {
-    left: -300%;
-  }
-  99% {
-    left: 0;
-  }
-}
-
-@keyframes snap {
-  96% {
-    scroll-snap-align: center;
-  }
-  97% {
-    scroll-snap-align: none;
-  }
-  99% {
-    scroll-snap-align: none;
-  }
-  100% {
-    scroll-snap-align: center;
-  }
-}
-
-ol, li {
-  list-style: none;
-  margin: 0;
-  padding: 0;
-}
-
-.carousel {
-  position: relative;
-  filter: drop-shadow(0 0 10px #0003);
-  perspective: 100px;
-}
-
-.carousel__viewport {
-  position: absolute;
-  top: 0;
-  right: 0;
-  bottom: 0;
-  left: 0;
-  display: flex;
-  overflow-x: scroll;
-  counter-reset: item;
-  scroll-behavior: smooth;
-  scroll-snap-type: x mandatory;
-}
-
-.carousel__slide {
-  position: relative;
-  flex: 0 0 100%;
-  width: 100%;
-  background-color: #f99;
-  counter-increment: item;
-}
-
-.carousel-images-container .hide {
-  visibility: hidden;
-}
-
-.carousel-images-container, .carousel {
-	width: 100%;
-	height: 100%;
-}
-.carousel-image-item {
-	background-size: contain;
-	background-position: center;
-	background-repeat: no-repeat;
-	width: 100%;
-	height: 100%;
-  	position: absolute;
-}
-
-.carousel__slide:nth-child(even) {
-  background-color: #99f;
-}
-
-.carousel__snapper {
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-  scroll-snap-align: center;
-}
-
-@media screen and (max-width: 990px){
-	.carousel-images-container, .carousel {
-		min-height: 100vw;
-	}
-}
-
-@media (hover: hover) {
-  .carousel__snapper {
-    animation-name: tonext, snap;
-    animation-timing-function: ease;
-    animation-duration: 4s;
-    animation-iteration-count: infinite;
-  }
-
-  .carousel__slide:last-child .carousel__snapper {
-    animation-name: tostart, snap;
-  }
-}
-
-@media (prefers-reduced-motion: reduce) {
-  .carousel__snapper {
-    animation-name: none;
-  }
-}
-
-.carousel:hover .carousel__snapper,
-.carousel:focus-within .carousel__snapper {
-  animation-name: none;
-}
-
-.carousel__navigation {
-  position: absolute;
-  right: 0;
-  bottom: 0;
-  left: 0;
-  text-align: center;
-  margin-bottom: 10px;
-}
-
-.carousel__navigation-list,
-.carousel__navigation-item {
-  display: inline-block;
-}
-
-.carousel__navigation-button {
-  display: inline-block;
-  width: 16px;
-  height: 16px;
-  background-color: #fff;
-  background-clip: content-box;
-  border: 0.25rem solid transparent;
-  border-radius: 50%;
-  font-size: 0;
-  transition: transform 0.1s;
-}
-
-.carousel-action-buttons {
-	position: absolute;
-	z-index: 99;
-	width: 100%;
-	height: 30px;
-  display: flex !important;
-  flex-direction: row;
-  justify-content: space-between;
-	margin-top: -45%;
-	padding: 0 20px;
-}
-
-.next-button {
-  background-image: url(../../images/ui/next.png);
-	padding: 7px 0px 5px 5px;
-}
-.prev-button {
-  background-image: url(../../images/ui/prev.png);
-	padding: 6px 8px 5px 5px;
-}
-
- .next-button, .prev-button {
-	height: 30px;
-	width: 30px;
-	background-color: rgba(0,0,0,.2);
-	border-radius: 50%;
-	color: #fff;
-	text-align: center;
-  background-position: center;
-  cursor: pointer;
-  background-repeat: no-repeat;
-  background-size: contain;
-}
-
-</style>
 
 {{ end }}

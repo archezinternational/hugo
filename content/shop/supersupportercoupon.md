@@ -3,9 +3,14 @@ title: "SUPER SUPPORTER COUPON"
 date: 2019-10-29T10:07:47+06:00
 draft: false
 
-# post thumb
+id: "supersupportercoupon"
 image: "images/coup/SUPER SUPPORTER 2.png"
-OverImage: "images/coup/super_supporter_1.png"
+images: [
+  "images/coup/STANDART 2.png",
+  "images/packages/plants_pack.png",
+  "images/packages/textures_3.png",
+  "images/coup/supporter_1.png"
+]
 
 # meta description
 description: "Super supporter coupon"
