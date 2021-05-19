@@ -2,13 +2,14 @@
 title: "ADS: STANDARD COUPON"
 date: 2019-10-29T10:07:47+06:00
 draft: false
+id: "standartcoupon"
 
 # post thumb
 image: "images/coup/STANDART 2.png"
 images: [
+  "images/packages/textures_3.png",
   "images/coup/STANDART 2.png",
   "images/packages/plants_pack.png",
-  "images/packages/textures_3.png",
   "images/coup/supporter_1.png"
 ]
 OverImage: "images/coup/standart_1.png"
