@@ -8,9 +8,11 @@
         {{if .Params.Images}}
         <section class="carousel" id='{{ .Params.id }}'>
           <div class="carousel-images-container">
-            {{ range .Params.Images }}
-            <img src="{{ . | absURL }}" class='carousel-image-item'/>
-            {{ end }}
+            <a href="{{ .Permalink }}">
+              {{ range .Params.Images }}
+              <img src="{{ . | absURL }}" class='carousel-image-item'/>
+              {{ end }}
+            </a>
           </div>
             <aside class="carousel__navigation">
               <ol class="carousel__navigation-list">
@@ -27,7 +29,6 @@
           </div>
         </section>
         {{ end }}
-        
         <div id="{{.Params.id}}_single-image-container">
           {{ if .Params.OverImage }}
           <img src="{{ .Params.OverImage | absURL }}" class="img-fluid w-100 mb-4" alt="{{ .Title | markdownify }}">
