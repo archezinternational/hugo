@@ -18,7 +18,7 @@ description: "Archez Magazine 2021 supporter"
 
 # taxonomies
 categories:
-  - "ARCHEZ MAGAZINE"
+  - "MAGAZINE"
 tags:
   - "Architecture"
   - "ADS"

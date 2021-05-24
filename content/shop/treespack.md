@@ -22,6 +22,7 @@ description: "Trees pack"
 categories:
   - "PSD"
   - "BEST SELLER"
+  - "TEXTURES"
 tags:
   - "Arquitecture"
   - "Plants"
