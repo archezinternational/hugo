@@ -12,7 +12,8 @@ type : "featured"
 
 ###### HOW TO GET FEATURED
 **POST**:  
-SEND US AN [EMAIL](mailto:featured@archezinternational.com?subject=Featured%20request) WITH YOUR DIGITAL ILLUSTRATIONS (ATTACH THE IMAGES .PNG, .JPG OR VIDEOS .MP4) + YOUR USERNAME
+Send us an [email](mailto:featured@archezinternational.com?subject=featured%20request) with your digital illustrations (attach the images .png, .jpg or videos .mp4) + your username
   
 **STORIES**:  
-IF YOU WANT TO PROMOTE YOUR ACCOUNT, WORKSHOP, PRODUCT, SUPPORT US, ETC. OR IF YOU DO RENDERS, ANY OTHER KIND OF GRAPHIC REPRESENTATION, WE INVITE YOU TO CHECK IT OUT OUR DIFFERENT [ADVERTISING COUPONS](/categories/coupon/) ON OUR [ARCHEZ SHOP](/shop)
+If you want to promote your account, workshop, product, support us, etc. or if you do renders, any other kind of graphic representation, we invite you to check it out our different [advertising coupons](/categories/coupon/) on our [ARCHEZ SHOP](/shop)
+

@@ -44,15 +44,15 @@ disqusShortname = ""
 ############################## navigation ###############################
 [menu]
 
+[[menu.main]]
+  name = "Shop"
+  URL = "shop"
+  weight = 1
+
   # main menu
   [[menu.main]]
   name = "Magazine"
   URL = "magazine"
-  weight = 1
-  
-  [[menu.main]]
-  name = "Shop"
-  URL = "shop"
   weight = 2
 
   [[menu.main]]
@@ -70,17 +70,17 @@ disqusShortname = ""
   URL = "contact"
   weight = 5
 
+  [[menu.footer]]
+  name = "Shop"
+  URL = "shop"
+  weight = 1
+
   # footer menu
   [[menu.footer]]
   name = "Magazine"
   URL = "magazine"
-  weight = 1
-  
-  [[menu.footer]]
-  name = "Shop"
-  URL = "shop"
   weight = 2
-
+  
   [[menu.footer]]
   name = "Featured"
   URL = "featured"
