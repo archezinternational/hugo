@@ -12,7 +12,7 @@ description: "this is meta description"
 type : "about"
 ---
 
-Archez International is an architectonic space created with 3 goals in mind: to be a **digital magazine** + **inspiration** + digital assets **shop**.
+Archez International is an architectural space created with 3 goals in mind: to be a **digital magazine** + **inspiration** + digital assets **shop**.
 
 We're a **digital magazine** that encourages architectural illustration, by exposing such a clean and artistic graphic representation through an annual competition where architects and students from all over the world can participate and show their best illustrated projects.
 
