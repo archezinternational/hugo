@@ -46,5 +46,3 @@ sub_title_description : "1st edition"
 
 
 **Are you ready to participate? See you with all the winners!**
-
----

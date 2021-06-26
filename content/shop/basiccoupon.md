@@ -31,9 +31,6 @@ tags:
   - "Coupons"
   - "Grow"
 
-# post type
-type: "featured"
-
 #price
 price: "$ 2.99"
 
