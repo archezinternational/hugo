@@ -37,7 +37,7 @@ price: "$ 0.99"
 downloadPath: ""
 
 #Gumroad URL
-gumroadURL: "https://gumroad.com/archezinternational?sort=page_layout#XmbDf"
+gumroadURL: "https://gumroad.com/archezinternational?sort=page_layout#uJaRQ"
 
 ---
 
