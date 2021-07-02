@@ -43,7 +43,7 @@ gumroadURL: "https://gumroad.com/archezinternational?sort=page_layout#SQOYI"
 
 ___
 
-Hi archifriend! Below I leave you all the specifications of this product:
+Hi archifriend! Below we leave you all the specifications of this product:
 
 **File size:** Top view 6.1 MB | Elevation 17.1 MB
 
@@ -57,7 +57,7 @@ Hi archifriend! Below I leave you all the specifications of this product:
 
 _____
 
-¡Hola archifriend! A continuación te dejo todas las especificaciones de este producto:
+¡Hola archifriend! A continuación te dejamos todas las especificaciones de este producto:
 
 **Tamaño de archivo:** Vista en planta 6.1 MB | Alzado 17.1 MB
 

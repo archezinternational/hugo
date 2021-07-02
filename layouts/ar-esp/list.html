@@ -1,0 +1,43 @@
+{{ define "main" }}
+
+<section class="section-sm">
+  <div class='flex-v text-center'>
+    <h4 class="widget-title">{{ .Title | markdownify }}</h4>
+    <a class="magazine-version" href="/ar">CHECK ENGLISH VERSION</a>
+  </div>
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-8 mx-auto text-center">
+        <div class="content">
+          {{ .Content }}
+        </div>
+        <hr class='mb-5 mt-5'>
+        <h4 class="w-100 widget-title"><i class="ti-facebook mr-3 text-primary"></i> CONOCE NUESTRO PORTAFOLIO DE FILTROS: </h4>
+        <a href="https://www.facebook.com/sparkarhub/portfolios/fb/archezinternational/" target="_blank" class="btn btn-outline-primary col-sm-6">PORTAFOLIO</a>
+      </div>
+    </div>
+  </div>
+</section>
+
+<style>
+.content ul li::before {
+  position: absolute;
+  content: "";
+  font-family: themify;
+  font-size: 0px;
+  left: 0;
+  padding: 0px;
+  top: 1px;
+  color: #f0c05a;
+  transition: .3s ease;
+}
+
+.content ul li {
+position: relative;
+padding-left: 0px;
+margin-bottom: 15px;
+list-style-type: none;
+}
+</style>
+
+{{ end }}

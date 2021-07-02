@@ -45,7 +45,7 @@ gumroadURL: "https://gumroad.com/archezinternational?sort=page_layout#fAahc"
 
 ___
 
-Hi archifriend! Below I leave you all the specifications of this product:
+Hi archifriend! Below we leave you all the specifications of this product:
 
 **File size:** 8.30 MB
 
@@ -57,7 +57,7 @@ Hi archifriend! Below I leave you all the specifications of this product:
 
 _____
 
-¡Hola archifriend! A continuación te dejo todas las especificaciones de este producto:
+¡Hola archifriend! A continuación te dejamos todas las especificaciones de este producto:
 
 **Tamaño de archivo:** 8.30 MB
 
