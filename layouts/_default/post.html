@@ -29,9 +29,9 @@
           </div>
         </section>
         {{ end }}
-        <div id="{{.Params.id}}_single-image-container">
+        <div id="{{.Params.id}}_single-image-container" class='single-image-container'>
           {{if .Params.Images}}
-          <img src="{{ index (.Params.images) 0 }}" class="card-img" alt="{{ .Title | markdownify }}">
+            <img src="{{ index (.Params.images) 0 }}" class="card-img" alt="{{ .Title | markdownify }}">
           {{ end }}
         </div>
 
@@ -93,4 +93,11 @@
   
         }, false);
 </script>
+
+<style>
+  .single-image-container {
+    min-height: 350px;
+  }
+</style>
+
 {{ end }}
