@@ -4,16 +4,10 @@ date: 2019-10-29T10:07:47+06:00
 draft: false
 
 id: "supportercoupon"
-image: "images/coup/supporter_1.png"
 images: [
   "images/coup/supporter_1.png",
   "images/coup/supporter_2.png"
 ]
-
-# post thumb
-image: "images/coup/SUPPORTER 2.png"
-OverImage: "images/coup/supporter_1.png"
-
 
 # meta description
 description: "Supporter coupon"
@@ -39,6 +33,8 @@ downloadPath: ""
 
 #Gumroad URL
 gumroadURL: "https://gumroad.com/archezinternational?sort=page_layout#mkqYK"
+gumroadButtonID: "https://gumroad.com/l/mkqYK?wanted=true"
+gumroadButtonTitle: "BUY NOW"
 
 ---
 

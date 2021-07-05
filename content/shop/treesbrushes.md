@@ -4,15 +4,10 @@ date: 2019-10-29T10:07:47+06:00
 draft: false
 
 id: "treesbrushes"
-image: "images/packages/textures_1.png"
 images: [
   "images/packages/treesbrushes_1.png",
   "images/packages/treesbrushes_2.png"
 ]
-
-# post thumb
-image: "images/packages/treesbrushes_2.png"
-OverImage: "images/packages/treesbrushes_1.png"
 
 # meta description
 description: "Trees brushes"
@@ -38,6 +33,8 @@ downloadPath: ""
 
 #Gumroad URL
 gumroadURL: "https://gumroad.com/archezinternational?sort=page_layout#XmbDf"
+gumroadButtonID: "https://gumroad.com/l/XmbDf?wanted=true"
+gumroadButtonTitle: "BUY NOW"
 
 ---
 

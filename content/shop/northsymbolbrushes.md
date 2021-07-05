@@ -4,15 +4,10 @@ date: 2019-10-29T10:07:47+06:00
 draft: false
 
 id: "northsymbol"
-image: "images/packages/north_1.png"
 images: [
   "images/packages/north_1.png",
   "images/packages/north_2.png"
   ]
-
-# post thumb
-image: "images/packages/north_2.png"
-OverImage: "images/packages/north_1.png"
 
 # meta description
 description: "north symbol brushes"
@@ -38,7 +33,8 @@ downloadPath: ""
 
 #Gumroad URL
 gumroadURL: "https://gumroad.com/archezinternational?sort=page_layout#rmGyc"
-
+gumroadButtonID: "https://gumroad.com/l/rmGyc?wanted=true"
+gumroadButtonTitle: "BUY NOW"
 ---
 
 ___

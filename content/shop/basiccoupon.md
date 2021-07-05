@@ -4,17 +4,12 @@ date: 2019-10-29T10:07:47+06:00
 draft: false
 
 id: "basiccoupon"
-image: "images/coup/basic_1.png"
 images: [
   "images/coup/basic_1.png",
   "images/coup/basic_2.png",
    "images/coup/basics_1.png",
   "images/coup/basics_2.png"
   ]
-
-# post thumb
-image: "images/coup/basic_2.png"
-OverImage: "images/coup/basic_1.png"
 
 # meta description
 description: "Basic coupon"
@@ -38,6 +33,8 @@ downloadPath: ""
 
 #Gumroad URL
 gumroadURL: "https://gumroad.com/archezinternational?sort=page_layout#ItuRP"
+gumroadButtonID: "https://gumroad.com/l/ItuRP?wanted=true"
+gumroadButtonTitle: "BUY NOW"
 
 ---
 

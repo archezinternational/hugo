@@ -4,16 +4,11 @@ date: 2019-10-29T10:07:47+06:00
 draft: false
 
 id: "tilespack"
-image: "images/packages/tilespack_1.png"
 images: [
   "images/packages/tilespack_1.png",
   "images/packages/tilespack_2.png",
   "images/packages/tilespack_3.png"
 ]
-
-# post thumb
-image: "images/packages/tilespack_3.png"
-OverImage: "images/packages/tilespack_1.png"
 
 # meta description
 description: "Tiles pack"
@@ -38,6 +33,8 @@ downloadPath: ""
 
 #Gumroad URL
 gumroadURL: "https://gumroad.com/archezinternational?sort=page_layout#TlMlh"
+gumroadButtonID: "https://gumroad.com/l/TlMlh?wanted=true"
+gumroadButtonTitle: "BUY NOW"
 
 ---
 

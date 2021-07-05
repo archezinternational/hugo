@@ -4,15 +4,10 @@ date: 2019-10-29T10:07:47+06:00
 draft: false
 
 id: "texturespack4"
-image: "images/packages/textures_4.png"
 images: [
   "images/packages/textures_4.png",
   "images/packages/textures_44.png"
 ]
-
-# post thumb
-image: "images/packages/textures 44.png"
-OverImage: "images/packages/textures_4.png"
 
 # meta description
 description: "Textures pack #4"
@@ -38,6 +33,8 @@ downloadPath: ""
 
 #Gumroad URL
 gumroadURL: "https://gumroad.com/archezinternational?sort=page_layout#FWFEe"
+gumroadButtonID: "https://gumroad.com/l/FWFEe?wanted=true"
+gumroadButtonTitle: "GET IT NOW"
 
 ---
 

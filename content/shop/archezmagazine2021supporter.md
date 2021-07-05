@@ -4,14 +4,10 @@ date: 2019-10-29T10:07:47+06:00
 draft: false
 
 id: "archezmagazine2021supporter"
-image: "images/coup/magazine.png"
 images: [
   "images/packages/magazine_1.png",
   "images/packages/magazine_2.jpeg"
   ]
-
-# post thumb
-OverImage: "images/packages/magazine_1.png"
 
 # meta description
 description: "Archez Magazine 2021 supporter"
@@ -35,6 +31,8 @@ downloadPath: ""
 
 #Gumroad URL
 gumroadURL: "https://gumroad.com/archezinternational?sort=page_layout#zYrbb"
+gumroadButtonID: "https://gumroad.com/l/zYrbb?wanted=true"
+gumroadButtonTitle: "GET IT NOW"
 
 ---
 

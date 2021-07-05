@@ -2,18 +2,14 @@
 title: "ADS: STANDARD COUPON"
 date: 2019-10-29T10:07:47+06:00
 draft: false
-id: "standardcoupon"
 
 id: "standardcoupon"
-image: "images/coup/standard_1.png"
 images: [
   "images/coup/standard_1.png",
   "images/coup/standard_2.png",
    "images/coup/standards_1.png",
   "images/coup/standards_2.png",
   ]
-
-OverImage: "images/coup/standart_1.png"
 
 # meta description
 description: "Standard coupon"
@@ -38,6 +34,8 @@ downloadPath: ""
 
 #Gumroad URL
 gumroadURL: "https://gumroad.com/archezinternational?sort=page_layout#ZtswU"
+gumroadButtonID: "https://gumroad.com/l/ZtswU?wanted=true"
+gumroadButtonTitle: "BUY NOW"
 
 ---
 

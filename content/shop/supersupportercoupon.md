@@ -4,7 +4,7 @@ date: 2019-10-29T10:07:47+06:00
 draft: false
 
 id: "supersupportercoupon"
-image: "images/coup/supersupporter_1.png"
+
 images: [
   "images/coup/supersupporter_1.png",
   "images/coup/supersupporter_2.png"
@@ -33,6 +33,8 @@ downloadPath: ""
 
 #Gumroad URL
 gumroadURL: "https://gumroad.com/archezinternational?sort=page_layout#mkqYK"
+gumroadButtonID: "https://gumroad.com/l/mkqYK?wanted=true"
+gumroadButtonTitle: "BUY NOW"
 
 ---
 

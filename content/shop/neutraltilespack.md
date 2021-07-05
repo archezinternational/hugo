@@ -4,16 +4,11 @@ date: 2019-10-29T10:07:47+06:00
 draft: false
 
 id: "neutraltilespack"
-image: "images/packages/neutral_1.png"
 images: [
   "images/packages/neutral_1.png",
   "images/packages/neutral_2.png",
   "images/packages/neutral_3.png"
 ]
-
-# post thumb
-image: "images/packages/neutral_2.png"
-OverImage: "images/packages/neutral_1.png"
 
 # meta description
 description: "NEUTRAL TILES PACK"
@@ -37,6 +32,8 @@ downloadPath: ""
 
 #Gumroad URL
 gumroadURL: "https://archezinternational.gumroad.com/l/GzJLM"
+gumroadButtonID: "https://gumroad.com/l/GzJLM?wanted=true"
+gumroadButtonTitle: "BUY NOW"
 
 ---
 
