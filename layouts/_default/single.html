@@ -56,7 +56,8 @@
             {{ end }}
             
             <div id="single-image-container">
-              <img src="{{ index (.Params.images) 0 }}" class="card-img" alt="{{ .Title | markdownify }}">
+              <p>../{{ index (.Params.images) 0 }}</p>
+              <img src="../../{{ index (.Params.images) 0 }}" class="card-img" alt="{{ .Title | markdownify }}">
             </div>
           </div>
         </div>
@@ -121,5 +122,11 @@ document.addEventListener('click', function (event) {
 	}
 }, false);
 </script>
+
+<style>
+  .carousel__navigation {
+    margin-bottom: 45px !important;
+  }
+</style>
 
 {{ end }}
