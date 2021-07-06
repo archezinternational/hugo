@@ -57,7 +57,7 @@
             
             <div id="single-image-container">
               <p>../{{ index (.Params.images) 0 }}</p>
-              <img src="../../{{ index (.Params.images) 0 }}" class="card-img" alt="{{ .Title | markdownify }}">
+              <img src="{{ index (.Params.images) 0 | absURL }}" class="card-img" alt="{{ .Title | markdownify }}">
             </div>
           </div>
         </div>
