@@ -12,7 +12,7 @@ type : "featured"
 
 ###### HOW TO GET FEATURED
 **POST**:  
-Send us an [email](mailto:featured@archezinternational.com?subject=featured%20request) with your digital illustrations (attach the images .png, .jpg or videos .mp4) + your username
+Send us an [email](mailto:featured@archezinternational.com?subject=featured%20request) with your digital illustrations (attach the images .png, .jpg or videos .mp4) + your username + location
 
 ----
 **STORIES**:  
