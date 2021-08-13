@@ -48,7 +48,7 @@ Hi archifriend! Below we leave you all the specifications of this product:
 
 **Software compatibility:** Every software that supports images like Adobe Photoshop, SketchUp...
 
-**Content:** 1 Ceramic / 1 Concret / 1 Fabric / 1 Granite / 1 Grass / 1 Metal / 1 Sand / 1 Travertine / 1 Wall / 1 Wood
+**Content:** 1 Ceramic / 1 Concrete / 1 Fabric / 1 Granite / 1 Grass / 1 Metal / 1 Sand / 1 Travertine / 1 Wall / 1 Wood
 
 _____
 
