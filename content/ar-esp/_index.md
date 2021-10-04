@@ -17,7 +17,7 @@ Mi principal objetivo es crear y entregarte el filtro de mejor calidad pensando 
 
 ###### TIPOS DE FILTROS:
   
-  Preset personalizado · Suavizado de rostro · Maquillaje básico (Rubor, labial) · Maquillaje (Pestañas, iluminación) · Pintura facial (Stickers en el rostro) · Texturas (Grano, polvo) · Marcos · Paleta de color · Fecha y hora · Lineas de contorno · KiraKira (Destellos y brillo) · Cambio de color de ojos / cabello · Glitch · Segmentación de persona · Sistema de particulas
+  Preset personalizado · Suavizado de rostro · Maquillaje básico (Rubor, labial) · Maquillaje (Pestañas, iluminación) · Deformación facial (Labios grandes, nariz pequeña) · Pintura facial (Stickers en el rostro) · Texturas (Grano, polvo) · Marcos · Paleta de color · Fecha y hora · Lineas de contorno · KiraKira (Destellos y brillo) · Cambio de color de ojos / cabello · Glitch · Segmentación de persona · Sistema de particulas
 <br/><br/>
 
 ###### ¿POR QUÉ ES IMPORTANTE TENER UN FILTRO EN INSTAGRAM / FACEBOOK?

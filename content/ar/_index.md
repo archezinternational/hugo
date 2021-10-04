@@ -17,7 +17,7 @@ Feel free to ask me anything so we can discuss your ideas to start realizing the
 
 ###### TYPES OF FILTERS:
   
-  Custom preset · Face retouch · Basic makeup (Blush, lipstick) · Makeup (Eyelash, highlights) · Face paint (Stickers on face) · Textures (Grain, dust) · Frames · Color palette · Date and time · Outline · KiraKira (Sparkles) · Eye / Hair color change · Glitch · Person segmentation · Particle system
+  Custom preset · Face retouch · Basic makeup (Blush, lipstick) · Makeup (Eyelash, highlights) · Face deformation (Big lips, small nose) · Face paint (Stickers on face) · Textures (Grain, dust) · Frames · Color palette · Date and time · Outline · KiraKira (Sparkles) · Eye / Hair color change · Glitch · Person segmentation · Particle system
 <br/><br/>
 
 ###### WHY IS IT IMPORTANT TO HAVE A FILTER ON INSTAGRAM / FACEBOOK?

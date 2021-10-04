@@ -1,5 +1,7 @@
 {{ define "main" }}
-
+<script>
+  let carousel = {}
+</script>
 <section class="section-sm">
   <div class='flex-v text-center'>
     <h4 class="widget-title">{{ .Title | markdownify }}</h4>
@@ -17,27 +19,62 @@
       </div>
     </div>
   </div>
+  <!-- <section class="section-sm"> -->
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-8 mx-auto text-center">
+          <hr class='mb-5 mt-5'>
+      </div>
+      </div>
+    
+    <div class="col-lg-8 mx-auto text-center">
+      <h4 class="widget-title">CHECK OUT OUR FILTERS SHOP</h4>
+    </div>
+    <div class="container">
+      <div class="row">
+        
+        <!-- in order to display items on this list, .md files needs to be created on content/ar/ -->
+        <div class="col-lg-12">
+          <div class="flex-h">
+            {{ $paginator := .Paginate .Data.Pages }}
+            {{ range $paginator.Pages }}
+            {{ .Render "post" }}
+            {{ end }}
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <!-- </section> -->
 </section>
 
 <style>
+
 .content ul li::before {
-  position: absolute;
-  content: "";
-  font-family: themify;
-  font-size: 0px;
-  left: 0;
-  padding: 0px;
-  top: 1px;
-  color: #f0c05a;
-  transition: .3s ease;
-}
+position: absolute;
+content: "";
+font-family: themify;
+font-size: 0px;
+left: 0;
+padding: 0px;
+top: 1px;
+color: #f0c05a;
+transition: .3s ease; }
 
 .content ul li {
 position: relative;
 padding-left: 0px;
 margin-bottom: 15px;
-list-style-type: none;
-}
+list-style-type: none; }
+
+.carousel__navigation {
+margin-bottom: -90% !important; }
+
+.carousel-action-buttons {
+margin-top: 50% !important; }
+
+section {
+padding-bottom: 0px !important; }
 </style>
 
 {{ end }}
