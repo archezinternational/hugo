@@ -27,12 +27,12 @@
     </div>
   
   <div class="col-lg-8 mx-auto text-center">
-    <h4 class="widget-title">CHECK OUT OUR FILTERS SHOP</h4>
+    <h4 class="widget-title"><a href={{ "/categories/filter/" | absURL }} class="text-primary">VISITA NUESTRA TIENDA DE FILTROS</a></h4>
   </div>
-  <div class="container">
+  <!-- <div class="container">
     <div class="row">
       
-      <!-- in order to display items on this list, .md files needs to be created on content/ar-esp/ -->
+      In order to display items on this list, .md files needs to be created on content/ar-esp/
       <div class="col-lg-12">
         <div class="flex-h">
           {{ $paginator := .Paginate .Data.Pages }}
@@ -41,7 +41,7 @@
           {{ end }}
         </div>
       </div>
-    </div>
+    </div> -->
   </div>
 </div>
 </section>
