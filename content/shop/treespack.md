@@ -16,7 +16,6 @@ description: "Trees pack"
 # taxonomies
 categories:
   - "PSD"
-  - "BEST SELLER"
   - "TEXTURES"
 tags:
   - "Arquitecture"

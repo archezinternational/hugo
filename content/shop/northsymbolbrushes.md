@@ -16,6 +16,7 @@ description: "north symbol brushes"
 categories:
   - "ABR"
   - "BRUSHES"
+  - "BEST SELLER"
 tags:
   - "Architecture"
   - "Brushes"

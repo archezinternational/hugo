@@ -18,7 +18,6 @@ description: "Basic coupon"
 categories:
   - "GROW WITH ARCHEZ"
   - "COUPON"
-  - "BEST SELLER"
 tags:
   - "Architecture"
   - "ADS"
