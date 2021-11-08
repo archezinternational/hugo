@@ -14,6 +14,7 @@ description: "Basic coupon"
 # taxonomies
 categories:
   - "BOOKS"
+  - "FREE"
 tags:
   - "Architecture"
 
