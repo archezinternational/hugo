@@ -26,7 +26,7 @@ tags:
   - "Grow"
 
 #price
-price: "$ 2.99"
+price: "$ 3"
 
 downloadPath: ""
 

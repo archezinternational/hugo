@@ -28,7 +28,7 @@ tags:
 type: "featured"
 
 #price
-price: "$ 7.99"
+price: "$ 8"
 
 downloadPath: "./fake_path"
 

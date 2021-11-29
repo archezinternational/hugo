@@ -27,7 +27,7 @@ tags:
 # post type
 
 #price
-price: "$ 7.99"
+price: "$ 8"
 
 downloadPath: ""
 

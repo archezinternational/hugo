@@ -27,7 +27,7 @@ tags:
 type: "featured"
 
 #price
-price: "$ 1.99"
+price: "$ 2"
 
 downloadPath: ""
 
