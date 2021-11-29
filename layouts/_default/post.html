@@ -17,7 +17,7 @@
             <aside class="carousel__navigation">
               <ol class="carousel__navigation-list">
                   {{ range .Params.Images }}
-                    <li class="carousel__navigation-item"></li>
+                    <li class="carousel__navigation-item">
                       <div class="carousel__navigation-button"></div>
                     </li>
                   {{ end }}
@@ -81,6 +81,7 @@
   
       if (event.target.matches('#{{.Params.id}}_next-button')) {
         carousel["{{.Params.id}}_index"]++;
+
         if (carousel["{{.Params.id}}_index"] >= carousel["{{.Params.id}}_images"].length) carousel["{{.Params.id}}_index"] = 0;
         for (let i = 0; i < carousel["{{.Params.id}}_images"].length; i++) {
           carousel["{{.Params.id}}_images"][i].classList.add('hidden');

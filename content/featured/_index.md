@@ -16,5 +16,5 @@ Send us an [email](mailto:featured@archezinternational.com?subject=featured%20re
 
 ----
 **STORIES**:  
-If you want to promote your account, workshop, product, support us, etc. or if you do renders, any other kind of graphic representation, we invite you to check it out our different [advertising coupons](/categories/coupon/) on our [ARCHEZ SHOP](/shop)
+If you want to promote your account, workshop, product, support us, etc. or if you do renders, any other kind of graphic representation, we invite you to check it out our different [advertising coupons](/categories/coupon/) on our [Archez Shop](/shop)
 
