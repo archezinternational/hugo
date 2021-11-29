@@ -19,7 +19,7 @@ tags:
   - "Architecture"
 
 #price
-price: "$ 0+"
+price: "$0+"
 
 downloadPath: ""
 
