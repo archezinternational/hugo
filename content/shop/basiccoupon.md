@@ -6,9 +6,7 @@ draft: false
 id: "basiccoupon"
 images: [
   "images/coup/basic_1.png",
-  "images/coup/basic_2.png",
-   "images/coup/basics_1.png",
-  "images/coup/basics_2.png"
+  "images/coup/basic_2.2.png"
   ]
 
 # meta description
