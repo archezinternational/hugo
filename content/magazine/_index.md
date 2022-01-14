@@ -1,5 +1,5 @@
 ---
-title: "ARCHEZ MAGAZINE 2021"
+title: "ARCHEZ MAGAZINE 2022"
 date: 2019-10-29T13:49:23+06:00
 draft: false
 
@@ -27,14 +27,14 @@ sub_title_description : "1st edition"
 
 · Each post must have been published on the ongoing month 
 
-· Competition closes on Dec 31th 2021
+· Competition closes on Dec 31th 2022
 
 ---
 
 |**WINNERS**|**THE AWARD**
 | --------------------------------- |:---------------------------------
-|· The last day of each month we will feature on Archez International instagram stories the top 4 finalists (acccording to the previous mentioned rules)|· Each awarded project will be featured on the Archez Magazine 2021 with the following: Two (2) project images + Authors name + Project description
-|· From the 4 finalists each month, we will choose only one winner. Giving us a total of 12 winners per year|· Each awarded author will be featured as “creator” inside the Archez Magazine 2021
+|· The last day of each month we will feature on Archez International instagram stories the top 4 finalists (acccording to the previous mentioned rules)|· Each awarded project will be featured on the Archez Magazine 2022 with the following: Two (2) project images + Authors name + Project description
+|· From the 4 finalists each month, we will choose only one winner. Giving us a total of 12 winners per year|· Each awarded author will be featured as “creator” inside the Archez Magazine 2022
 ||· We will have special mentions for the most outstanding illustrations
 ---
 
@@ -42,7 +42,7 @@ sub_title_description : "1st edition"
 
 · By mention us @archezinternational each participant claims to have the publication rights of the shared project
 
-· The information (images and description) shared with us for the Archez Magazine 2021 will not be shared with 3rd parties
+· The information (images and description) shared with us for the Archez Magazine 2022 will not be shared with 3rd parties
 
 
 **Are you ready to participate? See you with all the winners!**

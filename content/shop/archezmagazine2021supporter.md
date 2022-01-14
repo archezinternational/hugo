@@ -1,16 +1,16 @@
 ---
-title: "ARCHEZ MAGAZINE 2021 | SUPPORTER"
+title: "ARCHEZ MAGAZINE 2022 | SUPPORTER"
 date: 2019-10-29T10:07:47+06:00
 draft: false
 
-id: "archezmagazine2021supporter"
+id: "archezmagazine2022supporter"
 images: [
   "images/packages/magazine_1.png",
   "images/packages/magazine_2.jpeg"
   ]
 
 # meta description
-description: "Archez Magazine 2021 supporter"
+description: "Archez Magazine 2022 supporter"
 
 # taxonomies
 categories:
@@ -42,7 +42,7 @@ Hi archifriend!
 
 By donating you're supporting us, any amount will happily be received
 
-Donated money will be used on improving our **Archez Magazine 2021**
+Donated money will be used on improving our **Archez Magazine 2022**
 
 To create the Archez Magazine we need to collaborate between: architects, designers and editors to
 
@@ -54,7 +54,7 @@ _____
 
 Al donar nos estarás apoyando, cualquier cantidad será recibida con gusto
 
-El dinero donado se utilizará para mejorar nuestra **Archez Magazine 2021**
+El dinero donado se utilizará para mejorar nuestra **Archez Magazine 2022**
 
 Para crear la Archez Magazine necesitamos colaboraciones entre: arquitectos, diseñadores y editores
 

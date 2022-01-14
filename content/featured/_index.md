@@ -11,10 +11,10 @@ type : "featured"
 ---
 
 ###### HOW TO GET FEATURED
-**POST**:  
+**POSTS**:  
 Send us an [email](mailto:featured@archezinternational.com?subject=featured%20request) with your digital illustrations (attach the images .png, .jpg or videos .mp4) + your username + location
 
 ----
 **STORIES**:  
-If you want to promote your account, workshop, product, support us, etc. or if you do renders, any other kind of graphic representation, we invite you to check it out our different [advertising coupons](/categories/coupon/) on our [Archez Shop](/shop)
+Promote your account, workshop, product, renders or any other kind of graphic representation through our different [advertising coupons](/categories/coupon/) from our [Archez Shop](/shop)
 

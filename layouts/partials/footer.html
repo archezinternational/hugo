@@ -34,10 +34,21 @@
           <li class="mb-3"><a class="text-dark" href="tel:{{ .Site.Params.mobile }}"><i
                 class="ti-mobile mr-3 text-primary"></i>{{ .Site.Params.mobile }}</a></li>
           {{ end }}
-          {{ if .Site.Params.email }}           
-          <li class="mb-3"><a class="text-dark" href="mailto:{{ .Site.Params.email }}"><i
-                class="ti-email mr-3 text-primary"></i>{{ .Site.Params.email }}</a>
+          {{ if .Site.Params.info }}           
+          <li class="mb-3"><a class="text-dark" href="mailto:info@archezinternational.com"><i
+                class="ti-email mr-3 text-primary"></i>{{ .Site.Params.info }}</a>
           {{ end }}
+          
+          {{ if .Site.Params.featured }}           
+          <li class="mb-3"><a class="text-dark" href="mailto:featured@archezinternational.com"><i
+                class="ti-email mr-3 text-primary"></i>{{ .Site.Params.featured }}</a>
+          {{ end }}
+
+          {{ if .Site.Params.filter }}           
+          <li class="mb-3"><a class="text-dark" href="mailto:filter@archezinternational.com"><i
+                class="ti-email mr-3 text-primary"></i>{{ .Site.Params.filter }}</a>
+          {{ end }}
+
           {{ if .Site.Params.location }}           
           <li class="mb-3"><a a class="text-dark" href="https://www.google.com/maps?client=safari&rls=en&q=medellin&oe=UTF-8&um=1&ie=UTF-8&sa=X&ved=2ahUKEwjUoZa6tOPvAhXFdN8KHbC0BDUQ_AUoA3oECAEQBQ" target="_blank">
               <i class="ti-pin mr-3 text-primary"></i>{{ .Site.Params.location }}</a>
@@ -65,6 +76,15 @@
         </ul>
       </div>
       <div class="col-12 border-top py-4 text-center">
+        <div class="payment-methods flex-h">
+          <img src="images/payment_methods/discover.png" alt="">
+          <img src="images/payment_methods/visa.png" alt="">
+          <img id='mastercard' src="images/payment_methods/mastercard.png" alt="">
+          <img src="images/payment_methods/amex.png" alt="">
+          <img src="images/payment_methods/dinnersclub.png" alt="">
+          <img src="images/payment_methods/paypal.png" alt="">
+          <img src="images/payment_methods/applepay.png" alt="">
+        </div>
         {{ .Site.Params.copyright | markdownify }}
       </div>
     </div>
