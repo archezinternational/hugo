@@ -70,11 +70,6 @@ disqusShortname = ""
   weight = 5
 
   [[menu.footer]]
-  name = "Contact"
-  URL = "contact"
-  weight = 6
-
-  [[menu.footer]]
   name = "Augmented Reality"
   URL = "ar"
   weight = 1
@@ -99,11 +94,6 @@ disqusShortname = ""
   name = "About"
   URL = "about"
   weight = 5
-
-  [[menu.footer]]
-  name = "Contact"
-  URL = "contact"
-  weight = 6
 
 
 #################### default parameters ################################
