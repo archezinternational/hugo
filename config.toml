@@ -111,8 +111,8 @@ filter = "filter@archezinternational.com | for augmented reality filters"
 location = "Medellín, Colombia"
 # copyright
 copyright = "&copy; Archez International 2022"
-customCSS = ["css/custom_styles.css"]
-googleFontName = "Poppins"
+customCSS = ["./css/custom_styles.css"]
+googleFontName = "Montserrat"
 
   # Preloader
   [params.preloader]
