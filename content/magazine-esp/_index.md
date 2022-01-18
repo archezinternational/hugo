@@ -18,8 +18,8 @@ sub_title_description : "1st edition"
 
 |**COMO PARTICIPAR**                        |**REGLAS**
 | -------------------------------------     |:---------------------------------
-|· Publica tu post                          |· Crea y usa una paleta de colores
-|· Etiquetanos @archezinternational         |· Crea y usa al menos 1 textura 
+|· Publica tu post                          |· Usa una paleta de colores
+|· Etiquetanos @archezinternational         |· Usa al menos 1 textura 
 |· Usa nuestro hashtag #archezinternational |· Sé creativo
 ---
 
@@ -27,15 +27,20 @@ sub_title_description : "1st edition"
 
 · Cada post donde nos etiquetes debe haber sido publicado en el mes actual
 
+· Cada participante puede participar cuantas veces quiera (semanal, mensual)
+
+· Cada participante podrá ser elegido como finalista tres veces al año
+
 · Esta competición terminará el 31 de diciembre de 2022
 
 ---
 
 |**GANADORES**|**PREMIOS**
 | --------------------------------- |:---------------------------------
-|· El ultimo día de cada mes, será publicado el top 4 de finalistas del mes|· Cada proyecto ganador será publicado en nuestra Archez Magazine 2022 con: (2) Imágenes del proyecto: + Nombre del autor + Descripción del proyecto
+|·El ganador de cada mes será elegido de acuerdo a los votos obtenidos del público en el top 4 de finalistas del mes y a la votación interna del equipo de Archez (40% - 60% respectivamente)|· Cada proyecto ganador será publicado en nuestra Archez Magazine 2022 con: (2) Imágenes del proyecto: + Nombre del autor + Descripción del proyecto
 |· De los 4 finalistas de cada mes, elegiremos solo un ganador. Dándonos un total de 12 ganadores por año|· Cada ganador será publicado como “creador” dentro de nuestra Archez Magazine 2022
-||· Tendremos menciones especiaales para las ilustraciones más destacadas
+|· El ultimo día de cada mes, será publicado el top 4 de finalistas del mes
+|
 ---
 
 **DESCARGO DE RESPONSABILIDAD**

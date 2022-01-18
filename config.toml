@@ -105,9 +105,9 @@ description = "Architecture and Augmented reality. Magazine + Inspiration + Shop
 author = "Archez International"
 # Contact Information
 
-info = "info@archezinternational.com | for info and collaborations"
-featured = "featured@archezinternational.com | for featured"
-filter = "filter@archezinternational.com | for augmented reality filters"
+info = "for info and collaborations"
+featured = "for featured"
+filter = "for augmented reality filters"
 location = "Medellín, Colombia"
 # copyright
 copyright = "&copy; Archez International 2022"
