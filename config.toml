@@ -155,7 +155,7 @@ content = "https://www.archezinternational.com"
 
 [[params.customMetas]]
 field = "description"
-content = "Architecture and Augmented reality. Magazine + Tips/Inspo + Shop"
+content = "Architecture and Augmented reality. Magazine + Inspiration + Shop"
 
 [[params.customMetas]]
 field = "image"
