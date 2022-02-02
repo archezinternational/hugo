@@ -5,8 +5,7 @@ draft: false
 
 id: "archezmagazine2022supporter"
 images: [
-  "images/packages/magazine_1.png",
-  "images/packages/magazine_2.jpeg"
+  "images/packages/magazine_1.png"
   ]
 
 # meta description

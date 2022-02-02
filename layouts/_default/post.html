@@ -24,8 +24,10 @@
               </ol>
             </aside>
           <div class="carousel-action-buttons">
-            <div id="{{.Params.id}}_prev-button" class='prev-button'></div>
-            <div id="{{.Params.id}}_next-button" class='next-button'></div>
+            {{ if gt (len .Params.Images) 1 }}
+              <div id="{{.Params.id}}_prev-button" class='prev-button'></div>
+              <div id="{{.Params.id}}_next-button" class='next-button'></div>
+            {{ end }}
           </div>
         </section>
         {{ end }}

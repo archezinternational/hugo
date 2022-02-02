@@ -49,8 +49,10 @@
                   </ol>
                 </aside>
               <div class="carousel-action-buttons">
+                {{ if gt (len .Params.Images) 1 }}
                 <div class="prev-button"></div>
                 <div class="next-button"></div>
+                {{ end }}
               </div>
             </section>
             {{ end }}
