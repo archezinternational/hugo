@@ -18,7 +18,11 @@ categories:
   - "CAD BLOCKS"
 
 tags:
+  - "Architecture"
   - "Cadblocks"
+  - "Assets"
+  - "Elevation"
+  - "Topview"
 
 # post type
 
