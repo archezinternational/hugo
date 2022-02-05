@@ -15,7 +15,7 @@ Feel free to ask me anything so we can discuss your ideas to start realizing the
 [Contact me](mailto:info@archezinternational.com)
 <br/><br/>
 
-###### TYPES OF FILTERS:
+###### TYPES OF FILTERS
   
   Custom preset · Face retouch · Basic makeup (Blush, lipstick) · Makeup (Eyelash, highlights) · Face deformation (Big lips, small nose) · Face paint (Stickers on face) · Textures (Grain, dust) · Frames · Color palette · Date and time · Outline · KiraKira (Sparkles) · Eye / Hair color change · Glitch · Person segmentation · Particle system
 <br/><br/>
@@ -27,13 +27,13 @@ Filters today are the best way to massively increase your reach. Through the fil
 We can create the amount of filters you want and need, it all depends on what you want to promote, I will be here to advise you on the current terms and conditions of Instagram / Facebook in order to accept your filter and comply with everything required by the platforms.
 <br/><br/>
 
-###### YOU HAVE TO PROVIDE:
+###### YOU HAVE TO PROVIDE
  
 · Assets for the filter (Pictures, color presets, frames...)\
 · A description and / or sketch of the filter
 <br/><br/>
 
-###### I WILL DELIVER:
+###### I WILL DELIVER
  
 · The .arexport file\
 · A step by step guide on how to publish the filter

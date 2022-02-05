@@ -37,7 +37,7 @@ sub_title_description : "1st edition"
 
 |**WINNERS**|**THE AWARD**
 | --------------------------------- |:---------------------------------
-|·The winner of each month will be chosen according to the votes obtained from the public in the top 4 finalists of the month and the internal vote of the Archez team (40% - 60% respectively)|· Each awarded project will be featured on the Archez Magazine 2022 with the following: Two (2) project images + Authors name + Project description
+|· The winner of each month will be chosen according to the votes obtained from the public in the top 4 finalists of the month and the internal vote of the Archez team (40% - 60% respectively)|· Each awarded project will be featured on the Archez Magazine 2022 with the following: Two (2) project images + Authors name + Project description
 |· From the 4 finalists each month, we will choose only one winner. Giving us a total of 12 winners per year|· Each awarded author will be featured as “creator” inside the Archez Magazine 2022
 |· The last day of each month we will feature on Archez International instagram stories the top 4 finalists (acccording to the previous mentioned rules)
 ---
