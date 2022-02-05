@@ -10,10 +10,14 @@ description: "this is meta description"
 type : "featured"
 ---
 
-**POSTS**  
+|**POSTS**  
+| -------------------
+
 Send us an [email](mailto:featured@archezinternational.com?subject=featured%20request) with your digital illustrations (attach the images .png, .jpg or videos .mp4) + your username + location
 
 ----
-**STORIES**  
+|**STORIES**  
+| -------------------
+
 Promote your account, workshop, product, renders or any other kind of graphic representation through our different [advertising coupons](/categories/coupon/) from our [Archez Shop](/shop)
 

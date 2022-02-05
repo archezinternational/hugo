@@ -23,7 +23,8 @@ sub_title_description : "1st edition"
 |· Use the hashtag #archezinternational |· Creativity
 ---
 
-**IMPORTANT NOTES**
+|**IMPORTANT NOTES**
+| -------------------
 
 · Each post must have been published on the ongoing month 
 
