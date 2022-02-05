@@ -15,7 +15,7 @@ Mi principal objetivo es crear y entregarte el filtro de mejor calidad pensando 
 [Contáctame](mailto:info@archezinternational.com)
 <br/><br/>
 
-###### TIPOS DE FILTROS:
+###### TIPOS DE FILTROS
   
   Preset personalizado · Suavizado de rostro · Maquillaje básico (Rubor, labial) · Maquillaje (Pestañas, iluminación) · Deformación facial (Labios grandes, nariz pequeña) · Pintura facial (Stickers en el rostro) · Texturas (Grano, polvo) · Marcos · Paleta de color · Fecha y hora · Lineas de contorno · KiraKira (Destellos y brillo) · Cambio de color de ojos / cabello · Glitch · Segmentación de persona · Sistema de particulas
 <br/><br/>
@@ -27,13 +27,13 @@ Los filtros hoy en día son la mejor manera de incrementar tu alcance de manera 
 Podemos crear infinidad de filtros, todo depende de qué es lo que desees promocionar, aquí estaré para asesorarte en cuanto a los términos y condiciones actuales de Instagram / Facebook con el propósito de que acepten tu filtro y cumplas con todo lo requerido por las plataformas.
 <br/><br/>
 
-###### ME ENVIARÁS:
+###### ME ENVIARÁS
  
 · Recursos (Imagenes, presets, marcos...)\
 · Descripcion o boceto del filtro 
 <br/><br/>
 
-###### TE ENTREGARÉ:
+###### TE ENTREGARÉ
  
 · El archivo .arexport\
 · Guia paso a paso de como publicar tu filtro
