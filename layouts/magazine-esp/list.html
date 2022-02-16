@@ -11,16 +11,26 @@
           <div class="content">
             {{ .Content }}
           </div>
-          {{ if .Params.Image }}
-            <div class='d-block mx-auto mt-5'>
-              <img src="{{ .Params.Image | absURL }}" alt="" class="img-fluid col-sm-4">
+          <h4 class="home-title w-100 magazine-list">Ediciones anteriores</h4>
+          <div class='mx-auto mt-5 row'>
+            <div class='col-md-6'>
+              <img src="{{ .Params.Image_2020 | absURL }}" alt="" class="img-fluid">
               <div class='mb-4 mt-4'>
-                  <p class='magazine-title'> {{ .Params.sub_title }} </p>
-                  <p class='magazine-sub-title'> {{ .Params.sub_title_description }} </p>
+                  <p class='magazine-title'> {{ .Params.sub_title_2020 }} </p>
+                  <p class='magazine-sub-title'> {{ .Params.sub_title_description_2020 }} </p>
               </div>
-              <a href="/magazine_viewer" class="btn btn-outline-primary">OPEN</a>
+              <a href="/magazine_viewer_2020" class="btn btn-outline-primary">OPEN</a>
             </div>
-          {{ end }}
+
+            <div class='col-md-6'>
+              <img src="{{ .Params.Image_2021 | absURL }}" alt="" class="img-fluid">
+              <div class='mb-4 mt-4'>
+                  <p class='magazine-title'> {{ .Params.sub_title_2021 }} </p>
+                  <p class='magazine-sub-title'> {{ .Params.sub_title_description_2021 }} </p>
+              </div>
+              <a href="/magazine_viewer_2021" class="btn btn-outline-primary">OPEN</a>
+            </div>
+          </div>
         </div>
       </div>
     </div>

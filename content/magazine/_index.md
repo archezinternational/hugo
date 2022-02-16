@@ -4,16 +4,21 @@ date: 2019-10-29T13:49:23+06:00
 draft: false
 
 # image
-image: "images/magazine.png"
+image_2020: "images/magazine2020.png"
+image_2021: "images/magazine2021.png"
 
 # meta description
-description: "this is meta description"
+description_2020: "this is meta description"
+description_2021: "this is meta description"
 
 # type
 type : "magazine"
 
-sub_title : "ARCHEZ MAGAZINE 2020"
-sub_title_description : "1st edition"
+sub_title_2020 : "ARCHEZ MAGAZINE 2020"
+sub_title_2021 : "ARCHEZ MAGAZINE 2021"
+
+sub_title_description_2020 : "1st edition"
+sub_title_description_2021 : "2nd edition"
 ---
 
 |**HOW TO PARTICIPATE**                 |**THE RULES**
