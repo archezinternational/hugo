@@ -33,7 +33,7 @@ price: "$8"
 downloadPath: "./fake_path"
 
 #Gumroad URL
-gumroadURL: "https://gumroad.com/archezinternational?sort=page_layout#EHorz"
+gumroadURL: "https://archezinternational.gumroad.com/l/EHorz"
 gumroadButtonID: "https://gumroad.com/l/EHorz?wanted=true"
 gumroadButtonTitle: "BUY NOW"
 ---

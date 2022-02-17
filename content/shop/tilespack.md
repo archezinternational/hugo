@@ -32,7 +32,7 @@ price: "$8"
 downloadPath: ""
 
 #Gumroad URL
-gumroadURL: "https://gumroad.com/archezinternational?sort=page_layout#TlMlh"
+gumroadURL: "https://archezinternational.gumroad.com/l/TlMlh"
 gumroadButtonID: "https://gumroad.com/l/TlMlh?wanted=true"
 gumroadButtonTitle: "BUY NOW"
 

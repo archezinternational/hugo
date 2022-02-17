@@ -30,7 +30,7 @@ price: "$0+"
 downloadPath: ""
 
 #Gumroad URL
-gumroadURL: "https://gumroad.com/archezinternational?sort=page_layout#zYrbb"
+gumroadURL: "https://archezinternational.gumroad.com/l/zYrbb"
 gumroadButtonID: "https://gumroad.com/l/zYrbb?wanted=true"
 gumroadButtonTitle: "GET IT NOW"
 

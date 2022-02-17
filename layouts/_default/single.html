@@ -33,28 +33,30 @@
           </div>
           <div class="col-lg-6">
             {{if .Params.Images}}
-            <section class="carousel">
-              <div class="carousel-images-container">
-                {{ range .Params.Images }}
-                <img src="{{ . | absURL }}" class='carousel-image-item'/>
-                {{ end }}
-              </div>
-                <aside class="carousel__navigation">
-                  <ol class="carousel__navigation-list">
-                      {{ range .Params.Images }}
-                        <li class="carousel__navigation-item"></li>
-                          <div class="carousel__navigation-button"></div>
-                        </li>
-                      {{ end }}
-                  </ol>
-                </aside>
-              <div class="carousel-action-buttons">
-                {{ if gt (len .Params.Images) 1 }}
-                <div class="prev-button"></div>
-                <div class="next-button"></div>
-                {{ end }}
-              </div>
-            </section>
+            <a href="{{ .Params.gumroadURL }}" target="_blank">
+              <section class="carousel">
+                <div class="carousel-images-container">
+                  {{ range .Params.Images }}
+                  <img src="{{ . | absURL }}" class='carousel-image-item'/>
+                  {{ end }}
+                </div>
+                  <aside class="carousel__navigation">
+                    <ol class="carousel__navigation-list">
+                        {{ range .Params.Images }}
+                          <li class="carousel__navigation-item"></li>
+                            <div class="carousel__navigation-button"></div>
+                          </li>
+                        {{ end }}
+                    </ol>
+                  </aside>
+                <div class="carousel-action-buttons">
+                  {{ if gt (len .Params.Images) 1 }}
+                  <div class="prev-button"></div>
+                  <div class="next-button"></div>
+                  {{ end }}
+                </div>
+              </section>
+            </a>
             {{ end }}
             
             <div id="single-image-container">

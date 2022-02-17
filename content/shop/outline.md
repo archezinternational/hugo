@@ -36,7 +36,7 @@ price: "$20"
 downloadPath: ""
 
 #Gumroad URL
-gumroadURL: "https://gumroad.com/archezinternational?sort=page_layout#nNAnu"
+gumroadURL: "https://archezinternational.gumroad.com/l/nNAnu"
 gumroadButtonID: "https://gumroad.com/l/nNAnu?wanted=true"
 gumroadButtonTitle: "BUY NOW"
 

@@ -33,7 +33,7 @@ price: "$1"
 downloadPath: ""
 
 #Gumroad URL
-gumroadURL: "https://gumroad.com/archezinternational?sort=page_layout#XmbDf"
+gumroadURL: "https://archezinternational.gumroad.com/l/XmbDf"
 gumroadButtonID: "https://gumroad.com/l/XmbDf?wanted=true"
 gumroadButtonTitle: "BUY NOW"
 

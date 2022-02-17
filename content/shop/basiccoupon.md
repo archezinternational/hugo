@@ -29,7 +29,7 @@ price: "$5"
 downloadPath: ""
 
 #Gumroad URL
-gumroadURL: "https://gumroad.com/archezinternational?sort=page_layout#ItuRP"
+gumroadURL: "https://archezinternational.gumroad.com/l/ItuRP"
 gumroadButtonID: "https://gumroad.com/l/ItuRP?wanted=true"
 gumroadButtonTitle: "BUY NOW"
 
