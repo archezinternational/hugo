@@ -42,7 +42,7 @@ Hi archifriend!
 
 By donating you're supporting us, any amount will happily be received
 
-Donated money will be used on improving our **Archez Magazine 2022**
+Donated money will be used to improve our **Archez Magazine 2022** and to carry out advertising campaigns and widely expose the talent in said magazine
 
 To create the Archez Magazine we need to collaborate between: architects, designers and editors to
 
@@ -54,7 +54,7 @@ _____
 
 Al donar nos estarás apoyando, cualquier cantidad será recibida con gusto
 
-El dinero donado se utilizará para mejorar nuestra **Archez Magazine 2022**
+El dinero donado se utilizará para mejorar nuestra **Archez Magazine 2022** y para realizar campañas publicitarias y así exponer ampliamente el talento en dicha revista
 
 Para crear la Archez Magazine necesitamos colaboraciones entre: arquitectos, diseñadores y editores
 
