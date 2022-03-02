@@ -13,7 +13,6 @@
 			      </div>
             <h2>{{ .Title | markdownify }}</h2>
             <div class="mb-3 post-meta">
-              <span>By {{if .Params.Author}}{{ .Params.Author }}{{else}}{{.Site.Params.Author}}{{end}}</span>
             </div>
             {{ if .Params.price }}
             <div>
