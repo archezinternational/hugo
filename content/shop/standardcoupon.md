@@ -45,7 +45,7 @@ Would you like to grow your account? Do you want to advertise your account, work
 
 **This coupon allows you to: Be on our @archezinternational stories each monday during 4 consecutive weeks on instagram and facebook + call to action (follow, check it out, buy, etc) + link**
 
-· Every monday we will have a special section in our stories for you
+· Every saturday we will have a special section in our stories for you
 
 · We will only post architects, students, studios, offices, artists, engineers, amateur architects. We will not promote contests due to legal policies
 
@@ -57,9 +57,9 @@ _____
 
 ¿Te gustaría hacer crecer tu cuenta? ¿Quieres publicitar tu cuenta, taller, producto, etc.? ¡Entonces #GrowWithArchez es para ti!
 
-**Este cupón te permite: ser visible en nuestras historias @archezinternational durante 4 lunes consecutivos en instagram y facebook + llamada a la acción (sigue, revisa, compra, etc) + link**
+**Este cupón te permite: ser visible en nuestras historias @archezinternational durante 4 sábados consecutivos en instagram y facebook + llamada a la acción (sigue, revisa, compra, etc) + link**
 
-· Todos los lunes tendremos una sección especial en nuestra stories para ustedes
+· Todos los sábados tendremos una sección especial en nuestra stories para ustedes
 
 · Podrás ser recomendado como arquitecto, estudiante, estudio/oficina, artista, ingeniero o entusiasta de la arquitectura. No promocionamos concursos por políticas legales
 

@@ -44,9 +44,9 @@ Hi archifriend!
 
 Thank you for your support!
 
-**This coupon allows you to: Be reposted on our @archezinternational stories and stay there during a 24h period each monday during 4 consecutive weeks both on instagram and facebook stories (for a total of 4 reposts)**
+**This coupon allows you to: Be reposted on our @archezinternational stories and stay there during a 24h period each saturday during 4 consecutive weeks both on instagram and facebook stories (for a total of 4 reposts)**
 
-· Every monday we will have a special section in our stories for you
+· Every saturday we will have a special section in our stories for you
 
 · After making the purchase you will receive an email with the instructions
 
@@ -56,8 +56,8 @@ _____
 
 ¡Gracias por tu apoyo!
 
-**Este cupón es válido para: Ser reposteado en nuestras historias de @archezinternational y quedarte allí durante un período de 24h cada lunes durante 4 semanas consecutivas tanto en instagram como en facebook stories (para un total de 4 reposts)**
+**Este cupón es válido para: Ser reposteado en nuestras historias de @archezinternational y quedarte allí durante un período de 24h cada sábado durante 4 semanas consecutivas tanto en instagram como en facebook stories (para un total de 4 reposts)**
 
-· Todos los lunes tendremos una sección especial en nuestra stories para ustedes
+· Todos los sábados tendremos una sección especial en nuestra stories para ustedes
 
 · Después de realizar la compra recibirás un correo electrónico con las instrucciones

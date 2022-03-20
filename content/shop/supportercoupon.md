@@ -46,7 +46,7 @@ Thank you for your support!
 
 **This coupon allows you to: Be reposted on our @archezinternational stories and stay there during a 24h period both on instagram and facebook stories**
 
-· Every monday we will have a special section in our stories for you
+· Every saturday we will have a special section in our stories for you
 
 · After making the purchase you will receive an email with the instructions
 
@@ -58,6 +58,6 @@ _____
 
 **Este cupón es válido para: Ser resposteado en nuestras historias de @archezinternational y permanecer allí durante un período de 24h tanto en instagram como en facebook**
 
-· Todos los lunes tendremos una sección especial en nuestra stories para ustedes
+· Todos los sábados tendremos una sección especial en nuestra stories para ustedes
 
 · Después de realizar la compra recibirás un correo electrónico con las instrucciones
