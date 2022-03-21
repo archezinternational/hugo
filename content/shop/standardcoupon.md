@@ -43,7 +43,7 @@ Hi archifriend!
 
 Would you like to grow your account? Do you want to advertise your account, workshop, product, etc.? Then #GrowWithArchez is for you!
 
-**This coupon allows you to: Be on our @archezinternational stories each monday during 4 consecutive weeks on instagram and facebook + call to action (follow, check it out, buy, etc) + link**
+**This coupon allows you to: Be on our @archezinternational stories each saturday during 4 consecutive weeks on instagram and facebook + call to action (follow, check it out, buy, etc) + link**
 
 · Every saturday we will have a special section in our stories for you
 
