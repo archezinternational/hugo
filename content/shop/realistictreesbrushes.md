@@ -54,7 +54,7 @@ _____
 
 ¡Hola archifriend! A continuación te dejamos todas las especificaciones de este producto:
 
-**Tamaño** de archivo: 1 MB
+**Tamaño de archivo**: 1 MB
 
 **Formato**: ABR
 
