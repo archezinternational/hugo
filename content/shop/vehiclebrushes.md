@@ -1,5 +1,5 @@
 ---
-title: "VEHICLE BRUSHES"
+title: "VEHICLES BRUSHES"
 date: 2019-10-29T10:07:47+06:00
 draft: false
 
@@ -25,7 +25,7 @@ tags:
 type: "featured"
 
 #price
-price: "$1"
+price: "$3"
 
 downloadPath: ""
 
