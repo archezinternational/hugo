@@ -43,8 +43,8 @@ sub_title_description_2021 : "2da edición"
 |**GANADORES**|**PREMIOS**
 | --------------------------------- |:---------------------------------
 |·El ganador de cada mes será elegido de acuerdo a los votos obtenidos del público en el top 4 de finalistas del mes y a la votación interna del equipo de Archez (40% - 60% respectivamente)|· Cada proyecto ganador será publicado en nuestra Archez Magazine 2022 con: (2) Imágenes del proyecto: + Nombre del autor + Descripción del proyecto
-|· De los 4 finalistas de cada mes, elegiremos solo un ganador. Dándonos un total de 12 ganadores por año|· Cada ganador será publicado como “creador” dentro de nuestra Archez Magazine 2022
-|· El ultimo día de cada mes, será publicado el top 4 de finalistas del mes
+|· De los 4 finalistas de cada mes, elegiremos solo un ganador. Dándonos un total de 12 ganadores por año|· Cada ganador será publicado como -creador- dentro de nuestra Archez Magazine 2022
+|· El ultimo día de cada mes, será publicado el top 4 de finalistas del mes |· Cada ganador tendrá exposición en todas nuestras redes sociales, sitio web y campaña publicitaria (de acuerdo a lo recaudado)
 |
 ---
 
