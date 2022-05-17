@@ -1,5 +1,5 @@
 {{ define "main" }}
-<div itemscope itemtype="https://archezinternational.com/shop/">
+<div itemscope itemtype="https://archezinternational.com/shop/{{ .Params.id }}">
   <meta itemprop="brand" content="ArchezInternational">
   <meta itemprop="name" content={{ .Title | markdownify }}>
   <meta itemprop="description" content={{ .Content }}>
@@ -10,10 +10,12 @@
     <meta itemprop="image" content={{ . | absURL }}>
     {{ end }}
   {{ end }}
-  <!-- <div itemprop="offers" itemscope itemtype="https://archezinternational.com/shop/"> -->
-    <meta itemprop="price" content={{ .Params.price }}>
+  <div itemprop="offers" itemscope itemtype="https://archezinternational.com/shop/{{ .Params.id }}">
+    <meta itemprop="availability" content="in stock">
+    <meta itemprop="itemCondition" content="new">
+    <meta itemprop="price" content="{{ .Params.price }} USD">
     <meta itemprop="priceCurrency" content="USD">
-  <!-- </div> -->
+  </div>
 </div>
 <section class="section-sm">
   <div class="container">
