@@ -27,7 +27,7 @@ tags:
 # post type
 
 #price
-price: "$10+"
+price: "10+"
 
 downloadPath: ""
 
