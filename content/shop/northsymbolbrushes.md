@@ -6,7 +6,8 @@ draft: false
 id: "northsymbol"
 images: [
   "images/packages/north_1.png",
-  "images/packages/north_2.png"
+  "images/packages/north_2.png",
+  "images/packages/north_3.png"
   ]
 
 # meta description

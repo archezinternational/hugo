@@ -7,7 +7,8 @@ id: "treespack"
 images: [
   "images/packages/treespack_1.png",
   "images/packages/treespack_2.png",
-  "images/packages/treespack_3.png"
+  "images/packages/treespack_3.png",
+  "images/packages/treespack_4.png"
 ]
 
 # meta description
