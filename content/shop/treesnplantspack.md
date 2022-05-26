@@ -8,7 +8,8 @@ images: [
   "images/packages/treesnplantspack_1.png",
   "images/packages/treesnplantspack_2.png",
   "images/packages/treesnplantspack_3.png",
-  "images/packages/treesnplantspack_4.png"
+  "images/packages/treesnplantspack_4.png",
+  "images/packages/treesnplantspack_5.png"
 ]
 
 # meta description
