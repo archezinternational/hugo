@@ -65,5 +65,46 @@
   src="https://www.facebook.com/tr?id=1567371243648036&ev=PageView&noscript=1"
   /></noscript>
   <!-- End Meta Pixel Code -->
-  
+  <script>
+
+    window.addEventListener('load', function () {
+      var newsLetter = document.querySelector(".pop-up-news-letter.hide.disp-none")
+      var formButton = document.querySelector(".pop-up-news-letter button")
+      
+      if(localStorage.didShowNewsLetterPopUp == undefined) {
+        newsLetter.classList.remove("hide");
+        newsLetter.classList.remove("disp-none");
+      }
+
+      let hideAction = () => {
+        newsLetter.classList.add("hide");
+        localStorage.didShowNewsLetterPopUp = true;
+
+        setTimeout(() => {
+          newsLetter.classList.add("disp-none");
+        }, 500);
+      }
+
+      let validateEmail = () => {
+        let value = document.getElementById('pop-up-news-letter-input').value
+        let form = document.getElementById("pop-news-letter-form");
+        
+        if(value == "") {
+          form.action = "";
+          return;
+        } else {
+          form.action = "https://app.gumroad.com/follow_from_embed_form";
+          hideAction();
+        }
+      }
+      newsLetter.addEventListener('click', hideAction)   
+      formButton.addEventListener('click', validateEmail)   
+      
+      var newsLetterContainer = document.querySelector(".pop-up-news-letter-form-container")
+      newsLetterContainer.addEventListener('click', function(e) {
+        e.stopPropagation();
+      })   
+    }, false);
+
+  </script>
   </head>
