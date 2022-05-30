@@ -40,24 +40,40 @@ gumroadButtonTitle: "BUY NOW"
 
 ___
 
-Hi archifriend! Below we leave you all the specifications of this product:
+Hi archifriend! Below we leave you this product specification:
 
-**File size:** 53.6 MB
+You will receive: **50 high-quality png images** that you can use for your post-productions and illustrations
 
-**Format:** PNG
+With just a couple of clicks you will be able to:
 
-**Software compatibility:** Every software that supports images like Adobe Photoshop, SketchUp...
+· **Save time**, since you will have 50 varied images between **trees, bushes, and plants** in the same pack
 
-**Content:** 50 high quality png images that you can use for your post-productions and illustrations
+· **Give more realism** to your post-production and illustrations
+
+· **Create several environments** from the different kinds of trees, bushes, and plants
+
+**File size**: 53.6 MB
+
+**Format**: PNG
+
+**Software compatibility**: Every software that supports images like Adobe Photoshop, SketchUp...
 
 _____
 
 ¡Hola archifriend! A continuación te dejamos todas las especificaciones de este producto:
 
-**Tamaño de archivo:** 53.6 MB
+Recibirás en contenido: **50 imágenes png de alta calidad** que podrás utilizar para tus post-producciones e ilustraciones
 
-**Formato:** PNG
+Con solo un par de clicks vas a poder:
 
-**Compatibilidad de software:** Cualquier software que admita imágenes como Adobe Photoshop, SketchUp...
+· **Ahorrar tu tiempo**, ya que contarás con 50 imágenes variadas entre **árboles, arbustos y plantas** en un mismo pack
 
-**Contenido:** 50 imágenes png de alta calidad que puedes utilizar para tus post-producciones e ilustraciones
+· **Darle más realismo** a tus post-producciones e ilustraciones
+
+· **Crear diversos ambientes** a partir de los distintos tipos de árboles, arbustos y plantas
+
+**Tamaño de archivo**: 53.6 MB
+
+**Formato**: PNG
+
+**Compatibilidad de software**: cualquier software que admita imágenes como Adobe Photoshop, SketchUp...

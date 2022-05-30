@@ -40,24 +40,24 @@ gumroadButtonTitle: "GET IT NOW"
 
 ___
 
-Hi archifriend! Below we leave you all the specifications of this product:
+Hi archifriend! Below we leave you this product specification:
 
-**File size:** 2.1 MB
+**You will receive**: 1 Asphalt / 1 Concrete / 1 Granite / 1 Grass / 1 Metal / 1 Rocks / 1 Tile / 1 Translucent glass / 1 Water / 1 Wooden strips
 
-**Format:** JPG
+**File size**: 2.1 MB
 
-**Software compatibility:** Every software that supports images like Adobe Photoshop, SketchUp...
+**Format**: JPG
 
-**Content:** 1 Asphalt / 1 Concrete / 1 Granite / 1 Grass / 1 Metal / 1 Rocks / 1 Tile / 1 Translucent glass / 1 Water / 1 Wooden strips
+**Software compatibility**: Every software that supports images like Adobe Photoshop, SketchUp...
 
 _____
 
 ¡Hola archifriend! A continuación te dejamos todas las especificaciones de este producto:
 
-**Tamaño de archivo:** 2.1 MB
+**Recibirás**: 1 Asfalto / 1 Concreto / 1 Granito / 1 Cesped / 1 Metal / 1 Rocas / 1 Azulejo / 1 Vidrio traslucido / 1 Agua / 1 Listones de madera
 
-**Formato:** JPG
+**Tamaño de archivo**: 2.1 MB
 
-**Compatibilidad de software:** Cualquier software que admita imágenes como Adobe Photoshop, SketchUp...
+**Formato**: JPG
 
-**Contenido:** 1 Asfalto / 1 Concreto / 1 Granito / 1 Cesped / 1 Metal / 1 Rocas / 1 Azulejo / 1 Vidrio traslucido / 1 Agua / 1 Listones de madera
+**Compatibilidad de software**: Cualquier software que admita imágenes como Adobe Photoshop, SketchUp...

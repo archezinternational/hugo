@@ -42,24 +42,40 @@ gumroadButtonTitle: "BUY NOW"
 
 ___
 
-Hi archifriend! Below we leave you all the specifications of this product:
+Hi archifriend! Below we leave you this product specification:
 
-**File size:** 8.30 MB
+You will receive: **5 PSD files each with a different kind of tree**, each tree contains 3 textures; contour, monochrome and watercolor, that you can edit and use together or separately in your post-production and illustrations
 
-**Format:** PSD FILES
+With just a couple of clicks you will be able to:
 
-**Software compatibility:** Adobe Photoshop
+· **Create different styles** for each tree
 
-**Content:** 5 PSD files each with a different kind of tree, each tree has 3 different textures that you can edit them and use together or separately on your post-productions and illustrations
+· **Save time** when setting your floor plans with the versatility of this pack
+
+· **Combine them and create environments** with varied vegetation
+
+**File size**: 8.30 MB
+
+**Format**: PSD FILES
+
+S**oftware compatibility**: Adobe Photoshop
 
 _____
 
 ¡Hola archifriend! A continuación te dejamos todas las especificaciones de este producto:
 
-**Tamaño de archivo:** 8.30 MB
+Recibirás en contenido: **5 archivos PSD cada uno con un tipo diferente de árbol**, cada árbol contiene 3 texturas; contorno, monocromatico y acuarela, las cuales podrás editar y usar juntas o por separado en tus post-producciones e ilustraciones
 
-**Formato:** PSD
+Con solo un par de clicks vas a poder:
 
-**Compatibilidad de software:** Adobe Photoshop
+· **Crear diferentes estilos** para cada árbol
 
-**Contenido:** 5 archivos PSD cada uno con un tipo diferente de árbol, cada árbol tiene 3 texturas diferentes que puedes editar y usar juntas o por separado en tus post-producciones e ilustraciones
+· **Ahorrar tu tiempo** al momento de ambientar tus plantas con la versatilidad de este pack
+
+· **Combinarlos y crear ambientes** con vegetación variada
+
+**Tamaño de archivo**: 8.30 MB
+
+**Formato**: PSD
+
+**Compatibilidad de software**: Adobe Photoshop

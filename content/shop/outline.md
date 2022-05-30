@@ -44,29 +44,40 @@ gumroadButtonTitle: "BUY NOW"
 
 ___
 
-Hi archifriend! Below we leave you all the specifications of this product:
+Hi archifriend! Below we leave you this product specification:
 
-**File size:** 1.14 MB
+You will receive: **Augmented reality filter ready to upload to your Instagram profile**, you can choose the color of your preference: Yellow, white, red, green, blue or customize it.
 
-**Format:** AREXPORT
+· **You will receive the final .arexport file**
 
-**Software compatibility:** Instagram and Facebook
+· **You will receive a step-by-step guide** (English and Spanish) so you can upload your filter immediately and on your own
 
-**Content:** Augmented reality filter ready to upload to your instagram profile, you can choose the color of your preference: Yellow, white, red, green, blue or customize it. You will receive the final .arexport file and a step-by-step guide (English and spanish) so you can upload your filter immediately. Before buying try the filter: 
+· **Remember that: Filters today are the best way to massively increase your reach**. Through the filters, you can promote your personal account, your store or brand and even promote your campaigns by viralizing your content on both Instagram and Facebook
 
+· **Before buying try the filter**: OUTLINE
 
-[OUTLINE](https://www.instagram.com/ar/3523956021051979/)
+**File size**: 1.14 MB
+
+**Format**: AREXPORT
+
+**Software compatibility**: Instagram and Facebook
+
 _____
 
 ¡Hola archifriend! A continuación te dejamos todas las especificaciones de este producto:
 
-**Tamaño de archivo:** 1.14 MB
+Recibirás en contenido: **Filtro de realidad aumentada listo para subir a tu perfil de instagram**, puedes elegir el color de tu preferencia: Amarillo, blanco, rojo, verde, azul o personalizarlo.
 
-**Formato:** AREXPORT
+· **Recibirás el archivo .arexport** final
 
-**Compatibilidad de software:** Instagram y Facebook
+· **Recibirás una guía paso a paso** (Inglés y español) para que puedas subir tu filtro inmediatamente y por tu propia cuenta
 
-**Contenido:** Filtro de realidad aumentada listo para subir a tu perfil de instagram, puedes elegir el color de tu preferencia: Amarillo, blanco, rojo, verde, azul o personalizalo. Recibirás el archivo .arexport final y una guía paso a paso (Inglés y español) para que puedas subir tu filtro inmediatamente. Antes de comprar prueba el filtro: 
+· **Recuerda que: los filtros hoy en día son la mejor manera de incrementar tu alcance de manera masiva**. A través de los filtros puedes dar a conocer tu cuenta personal, tu tienda o marca e incluso dar a conocer tus campañas viralizando tu contenido tanto en Instagram como en Facebook
 
+· **Antes de comprar prueba el filtro**: OUTLINE
 
-[OUTLINE](https://www.instagram.com/ar/3523956021051979/)
+**Tamaño de archivo**: 1.14 MB
+
+**Formato**: AREXPORT
+
+**Compatibilidad de software**: Instagram y Facebook

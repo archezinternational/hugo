@@ -39,24 +39,36 @@ gumroadButtonTitle: "BUY NOW"
 
 ___
 
-Hi archifriend! Below we leave you all the specifications of this product:
+Hi archifriend! Below we leave you this product specification:
 
-**File size:** 13.7 MB
+You will receive: **More than 160 vehicles AutoCAD blocks** that you can edit and use in all your projects
 
-**Format:** DWG
+· **You will receive more than 160 varied blocks** between: cars, vans, motorcycles, bicycles, trucks, boats, planes, helicopters, etc...
 
-**Software compatibility:** AutoCAD
+· **You will receive all the exploded blocks**, so you can edit them to your needs and create the blocks as and when you want
 
-**Content:** 160+ CAD blocks of different vehicles between: cars, vans, motorcycles, trucks, boats, planes, etc. that you can edit and use in all your projects
+· **You will receive all the blocks in layer 0**, so you won't waste your time with millions of layers
+
+**File size**: 13.7 MB
+
+**Format**: DWG
+
+**Software compatibility**: AutoCAD
 
 _____
 
 ¡Hola archifriend! A continuación te dejamos todas las especificaciones de este producto:
 
-**Tamaño de archivo:** 13.7 MB
+Recibirás en contenido: **Más de 160 bloques de AutoCAD de vehiculos** que podrás editar y usar en todos tus proyectos
 
-**Formato:** DWG
+· **Recibirás más de 160 bloques variados** entre: carros, camionetas, motos, bicicletas, camiones, barcos, aviones, elicopteros, etc...
 
-**Compatibilidad de software:** AutoCAD
+· **Recibirás todos los bloques explotados**, así que podrás editarlos a tu gusto y crear los bloques como y cuando quieras
 
-**Contenido:** Más de 160 bloques CAD de vehiculos variados entre: carros, camionetas, motos, camiones, barcos, aviones, etc. que podrás editar y usar en todos tus proyectos
+· **Recibirás todos los bloques en capa 0**, así que no perderás tu tiempo con millones de capas
+
+**Tamaño de archivo**: 13.7 MB
+
+**Formato**: DWG
+
+**Compatibilidad de software**: AutoCAD

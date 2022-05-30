@@ -42,28 +42,36 @@ gumroadButtonTitle: "BUY NOW"
 
 ___
 
-Hi archifriend! Below we leave you all the specifications of this product:
+Hi archifriend! Below we leave you this product specification:
 
-**File size:** Top view 6.1 MB | Elevation 17.1 MB
+You will receive: **More than 500 AutoCAD blocks** in plan view (+250 blocks) and in elevation view (+250 blocks). You can buy them together or separately.
 
-**Format:** DWG
+· **You will receive more than 500 varied blocks** between: plants, cacti, bushes, trees, and palm trees in plan and elevation views
 
-**Software compatibility:** AutoCAD
+· **You will receive all the blocks in layer 0**, so you won't waste your time with millions of layers
 
-**Content:** 250+ CAD blocks suitable for top view and elevation view projects as well
+· **You will receive all the exploded blocks**, so you can edit them to your needs and create the blocks as and when you want
 
-*You can buy them together or separately*
+**File size**: Top view 6.1 MB | Elevation 17.1 MB
+
+**Format**: DWG
+
+**Software compatibility**: AutoCAD
 
 _____
 
 ¡Hola archifriend! A continuación te dejamos todas las especificaciones de este producto:
 
-**Tamaño de archivo:** Vista en planta 6.1 MB | Alzado 17.1 MB
+Recibirás en contenido: **Más de 500 bloques de AutoCAD** para proyectos de vista en planta (+250 bloques) y en alzado (+250 bloques). Puedes comprarlos juntos o por separado.
 
-**Formato:** DWG
+· **Recibirás más de 500 bloques variados** entre: plantas, cactus, arbustos, árboles y palmeras en vista en planta y en alzado
 
-**Compatibilidad de software:** AutoCAD
+· **Recibirás todos los bloques en capa 0**, así que no perderás tu tiempo con millones de capas
 
-**Contenido:** Más de 250 bloques CAD adecuados para proyectos de vista en planta y en alzado también
+· **Recibirás todos los bloques explotados**, así que podrás editarlos a tu gusto y crear los bloques como y cuando quieras
 
-*Puedes comprarlos juntos o por separado*
+**Tamaño de archivo**: Vista en planta 6.1 MB | Alzado 17.1 MB
+
+**Formato**: DWG
+
+**Compatibilidad de software**: AutoCAD

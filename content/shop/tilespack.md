@@ -40,24 +40,40 @@ gumroadButtonTitle: "BUY NOW"
 
 ___
 
-Hi archifriend! Below we leave you all the specifications of this product:
+Hi archifriend! Below we leave you this product specification:
 
-**File size:** 13 MB
+You will receive: **More than 400 jpg images with different tile styles** that you can use on your post-productions and illustrations
 
-**Format:** JPG
+With just a couple of clicks you will be able to:
 
-**Software compatibility:** Every software that supports images like Adobe Photoshop, SketchUp...
+· **Create infinite styles** in all your projects environments from the variety of tiles
 
-**Content:** 400+ jpg images that you can use for your post-productions and illustrations
+· **Save time** with more than 400 varied images of tiles in a single pack
+
+· **Give the necessary level of realism** to your projects according to the concept you implemented
+
+**File size**: 13 MB
+
+**Format**: JPG
+
+**Software compatibility**: Every software that supports images like Adobe Photoshop, SketchUp...
 
 _____
 
 ¡Hola archifriend! A continuación te dejamos todas las especificaciones de este producto:
 
-**Tamaño de archivo:** 13 MB
+Recibirás en contenido: **Más de 400 imágenes jpg** con diferentes estilos de azulejos que podrás utilizar para tus post-producciones e ilustraciones
 
-**Formato:** JPG
+Con solo un par de clicks vas a poder:
 
-**Compatibilidad de software:** Cualquier software que admita imágenes como Adobe Photoshop, SketchUp...
+· **Crear infinidad de estilos** en todos los ambientes de tus proyectos a partir de la variedad de azulejos
 
-**Contenido:** Más de 400 imágenes jpg que puedes utilizar para tus post-producciones e ilustraciones
+· **Ahorrar tu tiempo**, con más de 400 imágenes variadas de azulejos en un solo pack
+
+· **Darle el nivel de realismo** necesario a tus proyectos de acuerdo al concepto que implementes
+
+**Tamaño de archivo**: 13 MB
+
+**Formato**: JPG
+
+**Compatibilidad de software**: cualquier software que admita imágenes como Adobe Photoshop, SketchUp...

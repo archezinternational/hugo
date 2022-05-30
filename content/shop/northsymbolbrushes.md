@@ -41,7 +41,17 @@ gumroadButtonTitle: "BUY NOW"
 
 ___
 
-Hi archifriend! Below we leave you all the specifications of this product:
+Hi archifriend! Below we leave you this product specification:
+
+You will receive: **20 brushes each with a different kind of north symbol**, that you can edit and use in your post-production and illustrations
+
+With just a couple of clicks you will be able to:
+
+· **Achieve quality results** when placing north symbols in your illustrations
+
+· **Edit** colors, textures and opacity creating authentic symbols to differentiate your illustrations from others
+
+· **Save time by using only this pack** to designate the direction of north on your illustrations quickly and efficiently
 
 **File size**: 359 KB
 
@@ -49,16 +59,22 @@ Hi archifriend! Below we leave you all the specifications of this product:
 
 **Software compatibility**: Adobe Photoshop
 
-**Content**: 20 brushes each with a different kind of north symbol, that you can edit and use on your post-productions and illustrations
-
 _____
 
 ¡Hola archifriend! A continuación te dejamos todas las especificaciones de este producto:
+
+Recibirás en contenido: **20 pinceles cada uno con un tipo de símbolo de norte diferente**, que puedes editar y utilizar en tus postproducciones e ilustraciones
+
+Con solo un par de clicks vas a poder:
+
+· **Conseguir resultados de calidad** al momento de señalar el norte en tus ilustraciones
+
+· **Editar** colores, texturas y opacidades creando simbolos autenticos con los que se caractericen tus ilustraciones
+
+· **Ahorrar tu tiempo** utilizando solo este pack para designar la dirección del norte en tus iustraciones de manera rápida y eficiente
 
 **Tamaño de archivo**: 359 KB
 
 **Formato**: ABR
 
 **Compatibilidad de software**: Adobe Photoshop
-
-**Contenido**: 20 pinceles cada uno con un tipo de símbolo de norte diferente, que puedes editar y utilizar en tus postproducciones e ilustraciones

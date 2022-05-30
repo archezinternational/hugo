@@ -41,24 +41,40 @@ gumroadButtonTitle: "BUY NOW"
 
 ___
 
-Hi archifriend! Below we leave you all the specifications of this product:
+Hi archifriend! Below we leave you this product specification:
 
-**File size:** 97 KB
+You will receive: **3 brushes each with a different kind of tree**, that you can edit and use on your post-productions and illustrations
 
-**Format:** ABR
+With just a couple of clicks you will be able to:
 
-**Software compatibility:** Adobe Photoshop
+· **Edit** colors, textures and opacities creating unique finishes in your illustrations
 
-**Content:** 3 brushes each with a different kind of tree, that you can edit and use on your post-productions and illustrations
+· **Get aesthetic and quality results** using this brushes pack
+
+· **Save time** setting your illustrations in less than 5 minutes
+
+**File size**: 97 KB
+
+**Format**: ABR
+
+**Software compatibility**: Adobe Photoshop
 
 _____
 
 ¡Hola archifriend! A continuación te dejamos todas las especificaciones de este producto:
 
-**Tamaño de archivo:** 97 KB
+Recibirás en contenido: **3 pinceles cada uno con un tipo de árbol diferente**, que puedes editar y utilizar en tus postproducciones e ilustraciones
 
-**Formato:** ABR
+Con solo un par de clicks vas a poder:
 
-**Compatibilidad de software:** Adobe Photoshop
+· **Editar** colores, texturas y opacidades creando acabados únicos en tus ilustraciones
 
-**Contenido:** 3 pinceles cada uno con un tipo de árbol diferente, que puedes editar y utilizar en tus postproducciones e ilustraciones
+· **Conseguir resultados esteticos y de calidad** usando solo este pack de pinceles
+
+· **Ahorrar tu tiempo** ambientando tus ilustraciones en menos de 5 minutos
+
+**Tamaño de archivo**: 97 KB
+
+**Formato**: ABR
+
+**Compatibilidad de software**: Adobe Photoshop

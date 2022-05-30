@@ -46,16 +46,16 @@ Donated money will be used to improve our **Archez Magazine 2022** and to carry 
 
 To create the Archez Magazine we need to collaborate between: architects, designers and editors to
 
-*Download to see all the information related*
+_Download to see all the information related_
 
 _____
 
 ¡Hola archifriend!
 
-Al donar nos estarás apoyando, cualquier cantidad será recibida con gusto
+Al donar nos estarás apoyando, cualquier cantidad será recibida con mucho gusto
 
 El dinero donado se utilizará para mejorar nuestra **Archez Magazine 2022** y para realizar campañas publicitarias y así exponer ampliamente el talento en dicha revista
 
 Para crear la Archez Magazine necesitamos colaboraciones entre: arquitectos, diseñadores y editores
 
-*Descarga para ver toda la información*
+_Descarga para ver toda la información_

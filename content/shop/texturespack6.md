@@ -40,24 +40,24 @@ gumroadButtonTitle: "GET IT NOW"
 
 ___
 
-Hi archifriend! Below we leave you all the specifications of this product:
+Hi archifriend! Below we leave you this product specification:
 
-**File size:** 1.50 MB
+**You will receive**: 1 Ceramic / 1 Concrete / 1 Fabric / 1 Granite / 1 Grunge / 1 Metal / 1 Tile / 1 Watercolor / 1 Wood / 1 Wood strips
 
-**Format:** JPG
+**File size**: 1.50 MB
 
-**Software compatibility:** Every software that supports images like Adobe Photoshop, SketchUp...
+**Format**: JPG
 
-**Content:** 1 Ceramic / 1 Concrete / 1 Fabric / 1 Granite / 1 Grunge / 1 Metal / 1 Tile / 1 Watercolor / 1 Wood / 1 Wood strips
+**Software compatibility**: Every software that supports images like Adobe Photoshop, SketchUp...
 
 _____
 
 ¡Hola archifriend! A continuación te dejamos todas las especificaciones de este producto:
 
-**Tamaño de archivo:** 1.50 MB
+**Recibirás**: 1 Cerámica / 1 Concreto / 1 Tela / 1 Granito / 1 Manchado / 1 Metal / 1 Azulejo / 1 Acuarela / 1 Madera / 1 Listones de madera
 
-**Formato:** JPG
+**Tamaño de archivo**: 1.50 MB
 
-**Compatibilidad de software:** Cualquier software que admita imágenes como Adobe Photoshop, SketchUp...
+**Formato**: JPG
 
-**Contenido:** 1 Cerámica / 1 Concreto / 1 Tela / 1 Granito / 1 Manchado / 1 Metal / 1 Azulejo / 1 Acuarela / 1 Madera / 1 Listones de madera
+**Compatibilidad de software**: Cualquier software que admita imágenes como Adobe Photoshop, SketchUp...
