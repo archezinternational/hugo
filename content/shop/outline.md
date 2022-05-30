@@ -54,7 +54,7 @@ You will receive: **Augmented reality filter ready to upload to your Instagram p
 
 · **Remember that: Filters today are the best way to massively increase your reach**. Through the filters, you can promote your personal account, your store or brand and even promote your campaigns by viralizing your content on both Instagram and Facebook
 
-· **Before buying try the filter**: [OUTLINE](https://www.instagram.com/ar/3523956021051979/)
+· **Before buying try the filter**: <a href="https://www.instagram.com/ar/3523956021051979/" target="_blank">OUTLINE</a>
 
 **File size**: 1.14 MB
 
@@ -74,7 +74,8 @@ Recibirás en contenido: **Filtro de realidad aumentada listo para subir a tu pe
 
 · **Recuerda que: los filtros hoy en día son la mejor manera de incrementar tu alcance de manera masiva**. A través de los filtros puedes dar a conocer tu cuenta personal, tu tienda o marca e incluso dar a conocer tus campañas viralizando tu contenido tanto en Instagram como en Facebook
 
-· **Antes de comprar prueba el filtro**: [OUTLINE](https://www.instagram.com/ar/3523956021051979/)
+· **Antes de comprar prueba el filtro**: <a href="https://www.instagram.com/ar/3523956021051979/" target="_blank">OUTLINE</a>
+
 
 **Tamaño de archivo**: 1.14 MB
 
