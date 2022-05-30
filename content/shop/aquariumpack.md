@@ -42,7 +42,7 @@ ___
 
 Hi archifriend! Below we leave you this product specification:
 
-You will receive in content: **More than 140 marine animals AutoCAD blocks** that you can edit and use in your projects
+You will receive: **More than 140 marine animals AutoCAD blocks** that you can edit and use in your projects
 
 · **You will receive more than 140 varied blocks** between jellyfish, fish, crabs, octopus, stingray and lobsters
 

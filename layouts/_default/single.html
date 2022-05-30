@@ -28,17 +28,18 @@
               </div>
             </div>
             {{ end }}
-			    <!-- <p class='purchase-disclaimer'>All purchases will be made through our <a href="https://gumroad.com/archezinternational" target="_blank">gumroad</a> account. For direct payment methods (US or Colombian Banks, personal Paypal account) <a href="mailto:payments@archezinternational.com?subject=Direct payment request">contact us</a></p> -->
           </div>
-          <div class="col-lg-6">
+          <div class="col-lg-6" id='single-container-parent'>
             {{if .Params.Images}}
-            <a href="{{ .Params.gumroadURL }}" target="_blank">
+            
               <section class="carousel">
-                <div class="carousel-images-container">
+                <a href="{{ .Params.gumroadURL }}" target="_blank">
+                  <div class="carousel-images-container">
                   {{ range .Params.Images }}
-                  <img src="{{ . | absURL }}" class='carousel-image-item'/>
+                    <img src="{{ . | absURL }}" class='carousel-image-item'/>
                   {{ end }}
-                </div>
+                  </div>
+                </a>
                   <aside class="carousel__navigation">
                     <ol class="carousel__navigation-list">
                         {{ range .Params.Images }}
@@ -55,7 +56,7 @@
                   {{ end }}
                 </div>
               </section>
-            </a>
+            
             {{ end }}
             
             <div id="single-image-container">
@@ -115,6 +116,10 @@
 	let images = document.getElementsByClassName("carousel-image-item")
   if (images.length > 0) document.getElementById("single-image-container").classList.add('hidden')
   let bullets = document.getElementsByClassName("carousel__navigation-button")
+
+  let imageHeight = document.querySelector("#single-image-container").clientHeight
+  let imageContainer = document.querySelector("#single-container-parent")
+  imageContainer.style.height = imageHeight + "px"
   
   for (let i = 0; i < images.length; i++) {
     let image = images[i];
@@ -125,7 +130,7 @@
   };
 	
 document.addEventListener('click', function (event) {
-	
+	event.preventDefault()
 	if (event.target.matches('.prev-button')) {
       carouselIndex--;
       if (carouselIndex < 0) carouselIndex = images.length - 1;
