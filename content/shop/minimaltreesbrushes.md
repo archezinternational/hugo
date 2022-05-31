@@ -45,7 +45,7 @@ Hi archifriend! Below we leave you this product specification:
 
 You will receive: **25 brushes each with a kind of tree**, that you can edit and use in your post-production and illustrations
 
-· **Original collectio**n by Archez International
+· **Original collection** by Archez International
 
 · You can get **the entire collection which includes 25 brushes** for just $5, or **the freebie which includes only 5 brushes**
 
