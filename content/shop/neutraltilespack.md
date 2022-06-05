@@ -7,7 +7,8 @@ id: "neutraltilespack"
 images: [
   "images/packages/neutral_1.png",
   "images/packages/neutral_2.png",
-  "images/packages/neutral_3.png"
+  "images/packages/neutral_3.png",
+  "images/packages/neutral_4.png"
 ]
 
 # meta description

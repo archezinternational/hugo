@@ -9,7 +9,7 @@ images: [
   ]
 
 # meta description
-description: "Basic coupon"
+description: "Architecture books"
 
 # taxonomies
 categories:

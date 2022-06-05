@@ -11,7 +11,7 @@ images: [
 ]
 
 # meta description
-description: "Realistic Trees brushes"
+description: "Minimal trees brushes"
 
 # taxonomies
 categories:
