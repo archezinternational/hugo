@@ -24,6 +24,7 @@ tags:
   - "Topview"
 
 # post type
+type: "featured"
 
 #price
 price: "8"

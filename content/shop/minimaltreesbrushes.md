@@ -17,6 +17,7 @@ description: "Minimal trees brushes"
 categories:
   - "ABR"
   - "BRUSHES"
+  - "BEST SELLER"
 tags:
   - "Arquitecture"
   - "Plants"

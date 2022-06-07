@@ -6,7 +6,7 @@
     {{ end }}
     <article class="card">
         {{if .Params.Images}}
-        <section class="carousel" id='{{ .Params.id }}'>
+        <section class="carousel noselect" id='{{ .Params.id }}'>
           <div class="carousel-images-container">
             <a href="{{ .Permalink }}">
               {{ range .Params.Images }}

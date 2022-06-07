@@ -28,7 +28,7 @@ tags:
   - "Facebook filter"
 
 # post type
-type: "featured"
+# type: "featured"
 
 #price
 price: "20"
