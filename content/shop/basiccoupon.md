@@ -24,7 +24,7 @@ tags:
   - "Grow"
 
 #price
-price: "5"
+price: "8"
 
 downloadPath: ""
 

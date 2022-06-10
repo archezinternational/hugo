@@ -29,7 +29,7 @@ tags:
 type: "featured"
 
 #price
-price: "3"
+price: "5"
 
 downloadPath: ""
 
