@@ -6,7 +6,6 @@ draft: false
 id: "aquariumpack"
 images: [
   "images/packages/aquarium_1.jpg",
-  "images/packages/aquarium_2.jpg",
   "images/packages/aquarium_3.png"
 ]
 

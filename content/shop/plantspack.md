@@ -6,7 +6,6 @@ draft: false
 id: "plantspack"
 images: [
   "images/packages/plantspack_1.png",
-  "images/packages/plantspack_2.png",
   "images/packages/plantspack_3.png",
   "images/packages/plantspack_4.png"
   ]
