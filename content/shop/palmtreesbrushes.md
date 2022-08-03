@@ -6,7 +6,8 @@ draft: false
 id: "palmtreesbrushes"
 images: [
   "images/packages/palmtreesbrushes_1.png",
-  "images/packages/palmtreesbrushes_2.png"
+  "images/packages/palmtreesbrushes_2.png",
+  "images/packages/palmtreesbrushes_3.png"
 ]
 
 # meta description
