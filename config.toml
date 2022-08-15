@@ -47,12 +47,12 @@ disqusShortname = ""
   [[menu.main]]
   name = "Augmented Reality"
   URL = "ar"
-  weight = 1
+  weight = 4
 
   [[menu.main]]
   name = "Shop"
   URL = "shop"
-  weight = 2
+  weight = 1
 
   [[menu.main]]
   name = "Magazine"
@@ -62,7 +62,7 @@ disqusShortname = ""
   [[menu.main]]
   name = "Featured"
   URL = "featured"
-  weight = 4
+  weight = 2
 
   [[menu.main]]
   name = "About"
@@ -72,12 +72,12 @@ disqusShortname = ""
   [[menu.footer]]
   name = "Augmented Reality"
   URL = "ar"
-  weight = 1
+  weight = 4
 
   [[menu.footer]]
   name = "Shop"
   URL = "shop"
-  weight = 2
+  weight = 1
 
   # footer menu
   [[menu.footer]]
@@ -88,7 +88,7 @@ disqusShortname = ""
   [[menu.footer]]
   name = "Featured"
   URL = "featured"
-  weight = 4
+  weight = 2
 
   [[menu.footer]]
   name = "About"
