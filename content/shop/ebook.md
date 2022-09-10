@@ -144,7 +144,7 @@ Te daremos nuestra formula paso a paso de cómo ilustramos en menos de 1 hora y 
 
 · **PASO 10**: Verás cómo exportar de manera correcta tus archivos para usar tus ilustraciones en tu portafolio, posters, plataformas digitales y para imprimir en máxima calidad.
 
-**¿POR QUÉ TE RECOMENDAMOS NUESTRO EBOOK 10 STEPS?**
+**¿POR QUÉ TE RECOMENDAMOS NUESTRO E-BOOK 10 STEPS?**
 
 · Aprenderás a ilustrar en menos de 3 horas, y con el paso de los días ilustrarás en menos de 30 minutos como nosotros.
 
@@ -152,13 +152,13 @@ Te daremos nuestra formula paso a paso de cómo ilustramos en menos de 1 hora y 
 
 · Distingue tus ilustraciones entre miles de ilustradores con herramientas rápidas y fáciles de utilizar.
 
-**¿PARA QUIÉN ES ESTE EBOOK?**
+**¿PARA QUIÉN ES ESTE E-BOOK?**
 
-Si quieres aprender a usar Photoshop para comenzar a expresarte a través de la ilustración, este ebook es para ti.
+Si quieres aprender a usar Photoshop para comenzar a expresarte a través de la ilustración, este e-Book es para ti.
 
 En estos tiempos ya definitivamente todo lo expresamos de manera digital y para no quedarte en ese mundo de la arquitectura aburrido en blanco y negro, es importante que aprendas a darte a entender con todos tus proyectos de una forma eficaz tanto con tus colegas como con tus clientes y lo puedes lograr ilustrando.
 
-En solo horas este ebook express te brindará un camino claro, un paso a paso a seguir para conseguir una ilustración increíble y, además aprenderás a definir tu estilo y tu criterio para lograr diferenciarte de los demás.
+En solo horas este e-Book express te brindará un camino claro, un paso a paso a seguir para conseguir una ilustración increíble y, además aprenderás a definir tu estilo y tu criterio para lograr diferenciarte de los demás.
 
 Aprenderás el paso a paso que nosotros aplicamos cada vez que creamos nuestras ilustraciones y las compartimos a través de nuestras redes sociales y demás canales.
 

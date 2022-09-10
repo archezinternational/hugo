@@ -1,5 +1,5 @@
 ---
-title: "COMO ILUSTRAR EN 10 PASOS"
+title: "CÓMO ILUSTRAR EN 10 PASOS"
 date: 2021-10-29T13:49:23+06:00
 draft: false
 
