@@ -43,62 +43,66 @@ disqusShortname = ""
 
 ############################## navigation ###############################
 [menu]
-
   [[menu.main]]
-  name = "Augmented Reality"
-  URL = "ar"
-  weight = 4
+  name = "e-Book"
+  URL = "ebook"
+  weight = 1
 
   [[menu.main]]
   name = "Shop"
   URL = "shop"
-  weight = 1
-
-  [[menu.main]]
-  name = "Magazine"
-  URL = "magazine"
-  weight = 3
+  weight = 2
 
   [[menu.main]]
   name = "Featured"
   URL = "featured"
-  weight = 2
+  weight = 3  
+
+  [[menu.main]]
+  name = "Magazine"
+  URL = "magazine"
+  weight = 4
+
+  [[menu.main]]
+  name = "Augmented Reality"
+  URL = "ar"
+  weight = 5
 
   [[menu.main]]
   name = "About"
   URL = "about"
-  weight = 5
-
-  [[menu.main]]
-  name = "Ebook"
-  URL = "ebook"
   weight = 6
 
   [[menu.footer]]
-  name = "Augmented Reality"
-  URL = "ar"
-  weight = 4
-
-  [[menu.footer]]
-  name = "Shop"
-  URL = "shop"
+  name = "e-Book"
+  URL = "ebook"
   weight = 1
 
-  # footer menu
+    [[menu.footer]]
+  name = "Shop"
+  URL = "shop"
+  weight = 2
+
+    [[menu.footer]]
+  name = "Featured"
+  URL = "featured"
+  weight = 3
+
+    # footer menu
   [[menu.footer]]
   name = "Magazine"
   URL = "magazine"
-  weight = 3
-  
+  weight = 4
+
   [[menu.footer]]
-  name = "Featured"
-  URL = "featured"
-  weight = 2
+  name = "Augmented Reality"
+  URL = "ar"
+  weight = 5
 
   [[menu.footer]]
   name = "About"
   URL = "about"
-  weight = 5
+  weight = 6
 
 
 #################### default parameters ################################
