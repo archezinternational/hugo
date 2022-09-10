@@ -68,7 +68,7 @@ We'll give you a our step-by-step method  on how we illustrate in less than 1 ho
 
 **WHY DO WE RECOMMEND OUR 10 STEPS E-BOOK?**
 
-· You'll learn how to illustrate in less than 3 hours and with the proper practice, you'll get to finish entire illustrations in less than 30min as we do.
+· You'll learn how to illustrate in less than 3 hours and with the proper practice, you'll get to finish entire illustrations in less than 1h as we do.
 
 · With the tools we'll give you you'll be able to define your own criteria and your own illustration style.
 
@@ -146,7 +146,7 @@ Te daremos nuestra formula paso a paso de cómo ilustramos en menos de 1 hora y 
 
 **¿POR QUÉ TE RECOMENDAMOS NUESTRO E-BOOK 10 STEPS?**
 
-· Aprenderás a ilustrar en menos de 3 horas, y con el paso de los días ilustrarás en menos de 30 minutos como nosotros.
+· Aprenderás a ilustrar en menos de 3 horas, y con el paso de los días ilustrarás en menos de 1 hora como nosotros.
 
 · Define tu estilo de ilustración y desarrolla tu criterio de diseño con las herramientas que te enseñaremos.
 
