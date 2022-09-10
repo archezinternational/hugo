@@ -69,6 +69,11 @@ disqusShortname = ""
   URL = "about"
   weight = 5
 
+  [[menu.main]]
+  name = "Ebook"
+  URL = "ebook"
+  weight = 6
+
   [[menu.footer]]
   name = "Augmented Reality"
   URL = "ar"

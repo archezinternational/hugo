@@ -6,7 +6,7 @@
       {{ .Content }}
     </div>
     <div class='row justify-content-center'>
-      <div class='col-lg-12 text-center'>
+      <div class='col-lg-8 text-center'>
         <div class="row">
             <img class='centered-container' id='letter-a-container' src="images/capital_a.png" alt="#">
         </div>
@@ -15,18 +15,18 @@
             <p class='f-size-15 sub-title'>We are an architectural space created with 3 goals in mind</p>
           </div>
         </div>
-        <div class="row mt-5">
+        <div class="row mt-5 main-buttons-container">
           <div class='col-lg-4'>
-            <h4 class='mb-4'>Magazine</h4>
-            <a class='mb-4 btn btn-outline-primary' href='/magazine'>View more</a>
+            <h4 class='mb-4'><a href='/magazine' class="mb-4 btn btn-outline-primary">MAGAZINE</a></h4>
+            <!-- <a class='mb-4 btn btn-outline-primary'>View more</a> -->
           </div>
           <div class='col-lg-4'>
-            <h4 class='mb-4'>Inspiration</h4>
-            <a class='mb-4 btn btn-outline-primary' href='/featured'>View more</a>
+            <h4 class='mb-4'><a href='/featured' class="mb-4 btn btn-outline-primary">INSPIRATION</a></h4>
+            <!-- <a class='mb-4 btn btn-outline-primary'>View more</a> -->
           </div>
           <div class='col-lg-4'>
-            <h4 class='mb-4'>SHOP</h4>
-            <a class='mb-4 btn btn-outline-primary' href='/shop'>View more</a>
+            <h4 class='mb-4'><a href='/shop' class="mb-4 btn btn-outline-primary">SHOP</a></h4>
+            <!-- <a class='mb-4 btn btn-outline-primary'>View more</a> -->
           </div>
         </div>
       </div>
@@ -84,7 +84,7 @@
 </section>
 
 <!-- news letter -->
-<section>
+<section class="section-sm">
   <div id='newsletter' onclick="scrollTo('newsletter')" class="container">
     <hr>
     <h4 class="home-title w-100"><a href="#newsletter">NEWS LETTER</a></h4>
@@ -99,6 +99,7 @@
 
 <!-- instagram -->
 <section class="section-sm">
+  
   <div class="container">
     <!-- <hr> -->
     <!-- <h4 class="home-title w-100"><a href="/featured/">Featured</a></h4> -->
@@ -232,6 +233,15 @@
         	margin: 0 auto;
         	border: transparent;
       	}
+    }
+
+    .main-buttons-container a {
+      font-size: 20px;
+      width: 90%;
+    }
+
+    .main-buttons-container * {
+      margin-bottom: 0px !important;
     }
   </style>
 
