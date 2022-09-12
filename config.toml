@@ -135,6 +135,11 @@ googleFontName = "Montserrat"
 
 ############################# social site ########################
 [[params.social]]
+title = "Telegram"
+icon = "ti-location-arrow"
+link = "https://t.me/archezinternational"
+
+[[params.social]]
 title = "instagram"
 icon = "ti-instagram" # themify icon : https://themify.me/themify-icons
 link = "https://www.instagram.com/archezinternational"
