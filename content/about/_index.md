@@ -12,13 +12,13 @@ description: "this is meta description"
 type : "about"
 ---
 
-Archez International is an architectural space created with 3 goals in mind: to be a **digital magazine** + **inspiration** + digital assets **shop**.
+Archez International is a digital architectural illustration studio created with 3 goals in mind: to be a **learning space** + **resources creators** + **digital magazine**.
+
+We're a **learning space** where we teach from How to illustrate, how to use a variety of softwares, to tips about how to stand out your illustrations
+
+We're **resources creators**, where we help you to save time with easy-to-use and high-quality resources to use on your projects, from Autocad blocks to photoshop brushes to aesthetically stand out all of your projects, as well as advertising coupons to better expose your projects, workshops, and more.
 
 We're a **digital magazine** that encourages architectural illustration, by exposing such a clean and artistic graphic representation through an annual competition where architects and students from all over the world can participate and show their best illustrated projects.
-
-We're an **inspirational** medium that shares different illustrated projects through our Instagram account, where architects and students from all over the world share with us their projects to be posted.
-
-We're a digital assets **shop**, that provides you with CAD blocks and all required assets to help you to present your projects to promotion coupons that will help you to grow your account and to announce your projects, workshops, and more.
 
 Our mission is to support you as an architect or student by providing you with tools that add up value and visibility to your work, and our vision is to be a digital space where you feel inspired every day and in this way, you always stand out with your projects.
 

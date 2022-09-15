@@ -12,15 +12,15 @@ description: "this is meta description"
 type : "about-esp"
 ---
 
-Archez International es un espacio arquitectónico creado con 3 propósitos principales: ser una **revista digital** + ser **inspiración** + ser una **tienda** de recursos digitales.
+Archez International es un estudio digital de ilustración arcquitectonica creado con 3 propósitos principales: ser un **espacio para aprender** + ser **creadores de recursos arquitectónicos** + ser una **revista digital**
+
+Somos un **espacio para aprender** donde te enseñamos desde cómo ilustrar, cómo usar distintos softwares, hasta tips para destacar estéticamente en tus ilustraciones
+
+Somos **creadores de recursos arquitectónicos**, te ayudamos a ahorrar tiempo con recursos de calidad y fáciles de utilizar, desde bloques de autocad hasta pinceles de Photoshop para destacar esteticamente en todos tus proyectos, así como también cupones publicitarios con los que puedes hacer crecer tu cuenta y dar a conocer tus proyectos, workshops y demás.
 
 Somos una **revista digital** que promueve principalmente la ilustración arquitectónica, dando a conocer esta forma de representación gráfica limpia y artística, haciendo una competición anual donde arquitectos y estudiantes de arquitectura de todo el mundo pueden participar y dar a conocer sus mejores proyectos ilustrados.
 
-Somos un canal de **inspiración** compartiendo distintos proyectos ilustrados a través de nuestra cuenta de Instagram, en donde arquitectos y estudiantes de arquitectura alrededor del mundo nos envían diariamente sus proyectos para ser publicados.
-
-Somos una **tienda** de recursos digitales, donde te ofrecemos desde bloques de autocad y todos los recursos que necesites para presentar de una manera impecable tus proyectos, hasta cupones publicitarios donde puedes hacer crecer tu cuenta y dar a conocer tus trabajos, workshops y demás.
-
-Nuestra misión es apoyarte como arquitecto/estudiante de arquitectura brindándote herramientas que le agreguen valor y visibilidad a tu trabajo, y nuestra visión es ser un espacio donde te sientas inspirado cada día y de esta manera siempre destaques en tus proyectos.
+Nuestra misión es apoyarte como arquitecto/estudiante de arquitectura brindándote herramientas que le agreguen valor y visibilidad a tu trabajo. Nuestra visión es ser un espacio donde te sientas inspirado cada día y de esta manera siempre destaques en tus proyectos.
 
 **Friendly reminder**: Aprende – Crea – Comparte
 
