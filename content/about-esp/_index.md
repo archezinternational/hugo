@@ -12,11 +12,11 @@ description: "this is meta description"
 type : "about-esp"
 ---
 
-Archez International es un estudio digital de ilustración arcquitectonica creado con 3 propósitos principales: ser un **espacio para aprender** + ser **creadores de recursos arquitectónicos** + ser una **revista digital**
+Archez International es un estudio digital de ilustración arquitectónica creado con 3 propósitos principales: ser un **espacio para aprender** + ser **creadores de recursos arquitectónicos** + ser una **revista digital**
 
-Somos un **espacio para aprender** donde te enseñamos desde cómo ilustrar, cómo usar distintos softwares, hasta tips para destacar estéticamente en tus ilustraciones
+Somos un **espacio para aprender** donde te enseñamos desde cómo ilustrar, cómo usar distintos softwares, hasta tips para destacar estéticamente en tus ilustraciones.
 
-Somos **creadores de recursos arquitectónicos**, te ayudamos a ahorrar tiempo con recursos de calidad y fáciles de utilizar, desde bloques de autocad hasta pinceles de Photoshop para destacar esteticamente en todos tus proyectos, así como también cupones publicitarios con los que puedes hacer crecer tu cuenta y dar a conocer tus proyectos, workshops y demás.
+Somos **creadores de recursos arquitectónicos**, te ayudamos a ahorrar tiempo con recursos de calidad y fáciles de utilizar, desde bloques de autocad hasta pinceles de photoshop para destacar estéticamente en todos tus proyectos, así como también cupones publicitarios con los que puedes hacer crecer tu cuenta y dar a conocer tus proyectos, workshops y demás.
 
 Somos una **revista digital** que promueve principalmente la ilustración arquitectónica, dando a conocer esta forma de representación gráfica limpia y artística, haciendo una competición anual donde arquitectos y estudiantes de arquitectura de todo el mundo pueden participar y dar a conocer sus mejores proyectos ilustrados.
 
