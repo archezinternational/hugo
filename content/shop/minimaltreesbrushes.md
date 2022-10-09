@@ -36,7 +36,7 @@ downloadPath: ""
 
 #Gumroad URL
 gumroadURL: "https://archezinternational.gumroad.com/l/lnrvl"
-gumroadButtonID: "https://gumroad.com/l/lnrvl?wanted=true"
+gumroadButtonID: "https://archezinternational.gumroad.com/l/lnrvl"
 gumroadButtonTitle: "BUY NOW"
 
 ---

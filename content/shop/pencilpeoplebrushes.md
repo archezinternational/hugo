@@ -35,7 +35,7 @@ downloadPath: ""
 
 #Gumroad URL
 gumroadURL: "https://archezinternational.gumroad.com/l/ninuk"
-gumroadButtonID: "https://gumroad.com/l/ninuk?wanted=true"
+gumroadButtonID: "https://archezinternational.gumroad.com/l/ninuk"
 gumroadButtonTitle: "BUY NOW"
 
 ---
