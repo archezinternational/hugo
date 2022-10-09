@@ -30,8 +30,9 @@ price: "38"
 downloadPath: ""
 
 #Gumroad URL
+
 gumroadURL: "https://archezinternational.gumroad.com/l/wuqio"
-gumroadButtonID: "https://gumroad.com/l/wuqio?wanted=true"
+gumroadButtonID: "https://archezinternational.gumroad.com/l/wuqio"
 gumroadButtonTitle: "BUY NOW"
 
 ---
