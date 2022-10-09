@@ -16,7 +16,7 @@ description: "Textures pack #3"
 categories:
   - "JPG"
   - "TEXTURES"
-  - "FREE"
+  - "FREEBIES"
 tags:
   - "Architecture"
   - "Textures"

@@ -16,7 +16,7 @@ description: "Textures pack #1"
 categories:
   - "JPG"
   - "TEXTURES"
-  - "FREE"
+  - "FREEBIES"
 tags:
   - "Architecture"
   - "Textures"

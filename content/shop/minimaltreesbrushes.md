@@ -18,7 +18,7 @@ categories:
   - "ABR"
   - "BRUSHES"
   - "BEST SELLER"
-  - "FREE"
+  - "FREEBIES"
 tags:
   - "Arquitecture"
   - "Plants"

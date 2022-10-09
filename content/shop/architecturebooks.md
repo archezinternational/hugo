@@ -14,7 +14,7 @@ description: "Architecture books"
 # taxonomies
 categories:
   - "BOOKS"
-  - "FREE"
+  - "FREEBIES"
 tags:
   - "Architecture"
 

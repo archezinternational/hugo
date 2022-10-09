@@ -16,7 +16,7 @@ description: "Textures pack #6"
 categories:
   - "JPG"
   - "TEXTURES"
-  - "FREE"
+  - "FREEBIES"
 tags:
   - "Architecture"
   - "Textures"
