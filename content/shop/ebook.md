@@ -43,7 +43,7 @@ Hi archifriend!
 
 Learn **quickly** and **easily** with our step-by-step guide to **illustrate in an aesthetic and simple way** using just Photoshop. Available for you 24 hours a day 7 days a week!
 
-We'll give you a our step-by-step method  on how we illustrate in less than 1 hour and how to accomplish aesthetic results with just a few elements. Without previous illustration knowledge, without slow, boring, or confusing methods.
+We'll give you our step-by-step method  on how we illustrate in less than 1 hour and how to accomplish aesthetic results with just a few elements. Without previous illustration knowledge, without slow, boring, or confusing methods.
 
 **SYLLABUS OF OUR 10 STEPS E-BOOK**
 
