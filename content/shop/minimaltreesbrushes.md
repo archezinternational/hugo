@@ -49,13 +49,13 @@ You will receive: **25 brushes each with a kind of tree**, that you can edit and
 
 · **Original collection** by Archez International
 
-· You can get **the entire collection which includes 25 brushes** for just $5, or **the freebie which includes only 5 brushes**
+· You can get **the entire collection which includes 25 brushes** for just $5, or **the demo which includes only 5 brushes**
 
 · **You can edit** the colors, textures and opacities creating aesthetic looks on your illustrations
 
 · **You will be able to create and set an infinity of landscapes** using this brushes pack
 
-· **You will save** time setting your illustrations in less than 5 minutes
+· **You will save time** setting your illustrations in less than 5 minutes
 
 **File size**: 2.1 MB
 
@@ -71,7 +71,7 @@ Recibirás en contenido: **25 pinceles cada uno con un tipo de árbol**, que pue
 
 · **Colección original** por Archez International
 
-· Puedes obtener la **colección entera** que incluye **25 pinceles por solo $5** o la **versión gratis** de prueba que incluye solo 5 pinceles
+· Puedes obtener la **colección entera** que incluye **25 pinceles por solo $5** o la **versión de prueba** que incluye solo 5 pinceles
 
 · **Podrás editar** los colores, las texturas y las opacidades creando acabados estéticos en tus ilustraciones
 
